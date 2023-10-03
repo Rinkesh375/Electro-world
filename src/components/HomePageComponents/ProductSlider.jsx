@@ -37,14 +37,14 @@ const ProductSlider = ( ) => {
     <Box position="relative"  style={{overflow:"hidden"}}>
       <Slider  ref={sliderRef} {...sliderSettings} >
       
-        {productArray.map((ele, index) => <Link to={`/product/${ele.id}`}   >
+        {productArray.map((ele, index) => <Link key={ele.id} to={`/product/${ele.id}`}   >
             <Card maxW='sm' key={index} margin="1rem" style={{boxShadow:"rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px"}}>
 
 
 <CardBody>
     <VStack>
         <Image w="100%" src={ele.image} alt='Green double couch with wooden legs' borderRadius='lg' height="350px" />
-        <Text color="#003380" size='md'>{ele.name}...</Text>
+        <Text color="#003380" size='md'>{ele.name.substring(0,38)}...</Text>
     </VStack>
 
     <Stack   mt="0.4rem">

@@ -13,7 +13,7 @@
                 "5000mAh Battery"
             ],
             "category": "mobile",
-            "brand": "Tecno",
+            "brand": "Tecno_Mobile",
             "image": "https://www.reliancedigital.in/medias/Tecno-Spark-10C-493837794-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MzQ5N3xpbWFnZS9qcGVnfGltYWdlcy9oZjIvaDBhLzEwMDE1MDM3OTE1MTY2LmpwZ3wxYmY0NjE4MmUwOWFkNjI4Y2RhNzg0NGQ5ODMzZGU3NDYyMDQ2N2JkM2Y4MjhjYmUxYWRhMTg5MDE1Y2Y4ZTA1",
             "url": "https://www.reliancedigital.in/tecno-spark-10c-128-gb-8-gb-ram-blue-mobile-phone/p/493837794"
         },
@@ -30,7 +30,7 @@
                 "Internal Storage: 128 GB, RAM: 6 GB"
             ],
             "category": "mobile",
-            "brand": "Redmi",
+            "brand": "Redmi_Mobile",
             "image": "https://www.reliancedigital.in/medias/Xiaomi-Redmi-9-Activ-Smartphone-491998280-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MTUwN3xpbWFnZS9qcGVnfGltYWdlcy9oNTIvaGU0Lzk2NTM3NzU1MzIwNjIuanBnfDdmNWJjN2Q3YWMxZWE1N2RkMjk2MDhiZWNmNTcyMmMxZDkxNzM3ZDllNWMzZWM5YzE4N2IwNmI3ZWZmYTNjOWM",
             "url": "https://www.reliancedigital.in/redmi-12c-128-gb-6-gb-ram-matte-black-mobile-phone/p/493666122"
         },
@@ -43,7 +43,7 @@
                 "Camera: 8 MP + 5 MP, f/2.0, (wide) 0.08 MP (depth)"
             ],
             "category": "mobile",
-            "brand": "Redmi",
+            "brand": "Redmi_Mobile",
             "image": "https://www.reliancedigital.in/medias/Xiaomi-12C-Mob-493666122-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTc3NDZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGRhL2g5My85OTc4NjkxNzQ3ODcwLmpwZ3xkMmIxMWZhZTRmZjhlNGNhM2E3YjU3OGRiMGZkNzRjNjIwNTIyNzdlNDM1YjY2ZGFkZGUzZGJlYmUwN2Y5YWZi",
             "url": "https://www.reliancedigital.in/xiaomi-redmi-a2-32-gb-2-gb-ram-blue-mobile-phone/p/493837921"
         },
@@ -59,7 +59,7 @@
                 "5000mAh Battery"
             ],
             "category": "mobile",
-            "brand": "Vivo",
+            "brand": "Vivo_Mobile",
             "image": "https://www.reliancedigital.in/medias/Vivo-Y-Series-Cosmic-Grey-493838074-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NDA4NXxpbWFnZS9qcGVnfGltYWdlcy9oYjMvaGUwLzEwMDA4NDkwNTczODU0LmpwZ3w3OTY4YjM1NmY0YmY5ODhiZGM4YzYyZjc2OTZmYjFlMjEzN2M1M2NlMTUzMTNjNjk5MmU3YmFiYTlkNzBjZDYy",
             "url": "https://www.reliancedigital.in/vivo-y02t-4-gb-ram-64-gb-cosmic-grey-mobile-phone/p/493838074"
         },
@@ -72,7 +72,7 @@
                 "Camera: 8 MP + 5 MP, f/2.0, (wide) 0.08 MP (depth)"
             ],
             "category": "mobile",
-            "brand": "Redmi",
+            "brand": "Redmi_Mobile",
             "image": "https://www.reliancedigital.in/medias/Xiaomi-Redmi-A2-Plus-64-GB-Mobile-Phone-493837927-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjM4OTV8aW1hZ2UvanBlZ3xpbWFnZXMvaGFmL2g2Yi8xMDAwMzk2MDc5MTA3MC5qcGd8YzRhODM0NDk1MDBiZTVmZDIxZmI1MzA5ZmRkNWI1MjEzYzVlNjJkMDliYThjZTVmYWRlZmQxMjA4ZTdiNzMyMQ",
             "url": "https://www.reliancedigital.in/xiaomi-redmi-a2-plus-64-gb-4-gb-ram-blue-mobile-phone/p/493837927"
         },
@@ -89,7 +89,7 @@
                 "Dimensity 9200 5G Mobile Platform Processor"
             ],
             "category": "mobile",
-            "brand": "Vivo",
+            "brand": "Vivo_Mobile",
             "image": "https://www.reliancedigital.in/medias/Vivo-X90Pro-Smartphones-493666474-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzg1ODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU4L2hlNi85OTg3NDkwMDU0MTc0LmpwZ3wwNjdlNTVjMDhlNmJiZmU3Y2IyOGQ0M2ZjNzM3OGM3Y2Q1OWJjZmRiYWQ2YWYxMzc0M2YzOTg0M2I1ZDE0ZWM0",
             "url": "https://www.reliancedigital.in/vivo-x90-pro-256-gb-12-gb-legendary-black-smartphone/p/493666474"
         },
@@ -109,7 +109,7 @@
                 "MagSafe: Wireless charging up to 15 Watts"
             ],
             "category": "mobile",
-            "brand": "Apple",
+            "brand": "Apple_Mobile",
             "image": "https://www.reliancedigital.in/medias/iPhone-14-Pro-Gold-PDP-Image-493177780-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODkzMDV8aW1hZ2UvanBlZ3xpbWFnZXMvaDI1L2gyMC8xMDAxNjkxMTQ5MTEwMi5qcGd8MmE2ZDllM2MwNTcwNTMzOGRlM2M2OTY2ZDM0N2Q5Y2I2OGQyODc4MzU5NGJkZjM1MWNlYzUwODgyYjA4YWVlOQ",
             "url": "https://www.reliancedigital.in/apple-iphone-14-pro-128-gb-gold/p/493177780"
         },
@@ -125,7 +125,7 @@
                 "Internal Storage: 256 GB, RAM: 16 GB"
             ],
             "category": "mobile",
-            "brand": "OnePlue",
+            "brand": "OnePlus_Mobile",
             "image": "https://www.reliancedigital.in/medias/OnePlus-11R-Mobile-Phone-493665200-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2NjczNzR8aW1hZ2UvanBlZ3xpbWFnZXMvaDg0L2g5Zi85OTY0MTk3OTY5OTUwLmpwZ3w2ZjdhZmQ5MGYzZGMzMWNmYTlhN2RhNTE3ZGI1YWU4ZTczMWZhZjUzN2FhODQwZjQ3NGYzOTRmOWRjYWM3NDVl",
             "url": "https://www.reliancedigital.in/oneplus-11r-5g-256-gb-16-gb-ram-galatic-silver-mobile-phone/p/493665200"
         },
@@ -142,7 +142,7 @@
                 "Internal Storage: 128 GB, RAM: 6 GB"
             ],
             "category": "mobile",
-            "brand": "Redmi",
+            "brand": "Redmi_Mobile",
             "image": "https://www.reliancedigital.in/medias/Xiaomi-Note-12-Pro-Mobile-Phone-493664803-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTA2NzV8aW1hZ2UvanBlZ3xpbWFnZXMvaDViL2gzOC85OTQyMzU4NTU2NzAyLmpwZ3xlZjFmZjU3MzcwMDMyZGZlODRhNDU3YjE0M2M3NzlmYWQyZDgzMzMyYjc2MTUzMWE1YWJkOTQ5YzY5YjQyMmRj",
             "url": "https://www.reliancedigital.in/xiaomi-redmi-note-12-pro-5g-128-gb-6-gb-ram-onyx-black-mobile-phone/p/493664803"
         },
@@ -160,7 +160,7 @@
                 "IPX4 Water proof and Drop tested, Photo information protection"
             ],
             "category": "mobile",
-            "brand": "Oppo",
+            "brand": "Oppo_Mobile",
             "image": "https://www.reliancedigital.in/medias/Oppo-F21s-Pro-Mobile-Phone-493177728-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4NjQ4NHxpbWFnZS9qcGVnfGltYWdlcy9oYjkvaDAyLzk4OTQ2MjI2MjU4MjIuanBnfGQwMTRiZDg0MzBkNDBmMjBhZjdlODE0YjI4NTA3YjA4ZDE3ZWFkMjYyZDdiN2NiMzVmODYyNjM4ZWI3YzliYTg",
             "url": "https://www.reliancedigital.in/oppo-f21s-pro-5g-128-gb-8-gb-ram-dawnlight-gold-mobile-phone/p/493177728"
         },
@@ -178,7 +178,7 @@
                 "MIUI 13 based on Android 11 operating System"
             ],
             "category": "mobile",
-            "brand": "Redmi",
+            "brand": "Redmi_Mobile",
             "image": "https://www.reliancedigital.in/medias/REDMI-NOTE-11-Mobile-Phone-492849130-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4Nzk5NnxpbWFnZS9qcGVnfGltYWdlcy9oNDUvaDk0Lzk4MjAzMDk5MTM2MzAuanBnfDU3ZjMzYWNhODAzMmUwODA4NjlhZTE1Njc3M2EyMWY2NWZlZjJkNTFkYmViOTBkNTE1MDcyMjM2OWRjYjQxZjU",
             "url": "https://www.reliancedigital.in/redmi-note-11-128-gb-6-gb-ram-space-black-mobile-phone/p/492849130"
         },
@@ -196,7 +196,7 @@
                 "7000 mAh Battery"
             ],
             "category": "mobile",
-            "brand": "Tecno",
+            "brand": "Tecno_Mobile",
             "image": "https://www.reliancedigital.in/medias/Tecno-TECNO-POVA3-Smart-Phones-492850709-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyOTY4Mjd8aW1hZ2UvanBlZ3xpbWFnZXMvaGUxL2hkZi85ODQ4NjU5NjczMTE4LmpwZ3wyOTVmZTYyOWVlOWI3MzYxYjU2ODU1ZGYyODMwZjY4NTBlZWY0NWZlMzczOTA1MGMzYTUzNjRhMTY4ZWYzZmVk",
             "url": "https://www.reliancedigital.in/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-with-7000-mah-mega-battery/p/492850709"
         },
@@ -213,7 +213,7 @@
                 "Octa-core 1.6GHz A55 Processor"
             ],
             "category": "mobile",
-            "brand": "Item",
+            "brand": "Itel_Mobile",
             "image": "https://www.reliancedigital.in/medias/Itel-Vision-2S-Smartphones-491997913-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MTU3Nzh8aW1hZ2UvanBlZ3xpbWFnZXMvaDc5L2g0Yy85NjU3NDEyMjg4NTQyLmpwZ3xlMDM1OWY5MWZkMWQ5M2QwNGE1YzU5NmIzMGZhNjU2NWI3YWI0ZDdjZDRjZjNmNzY1NzM0OWY3MmRlNGQ1NTYw",
             "url": "https://www.reliancedigital.in/itel-vision-2s-32-gb-2-gb-ram-deep-blue-mobile-phone/p/491997913"
         },
@@ -230,7 +230,7 @@
                 "8 MP Selfie Camera, 13+2 MP Primary Camera"
             ],
             "category": "mobile",
-            "brand": "Oppo",
+            "brand": "Oppo_Mobile",
             "image": "https://www.reliancedigital.in/medias/Oppo-A57-Smart-Phones-492850647-i-492850647-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNzI2MTR8aW1hZ2UvanBlZ3xpbWFnZXMvaDc2L2g3MC85ODQ3MjI4MjY4NTc0LmpwZ3xiYzJhMTk1MGZiYWVkMzlkODY3MDgyNzUxZGYwYTdkNTUxNmYxYTFjMGNmNzU1ZmRlMmRlMGRhZjU5YjNlNDEy",
             "url": "https://www.reliancedigital.in/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone/p/492850647"
         },
@@ -247,7 +247,7 @@
                 "6000mAh Battery Life"
             ],
             "category": "mobile",
-            "brand": "Redmi",
+            "brand": "Redmi_Mobile",
             "image": "https://www.reliancedigital.in/medias/Redmi-10-Power-Smartphones-492850151-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNjEwNjh8aW1hZ2UvanBlZ3xpbWFnZXMvaDUyL2g0ZS85ODMyNDM0NjYzNDU0LmpwZ3xhMmUwZjMwMWI5MTJiZThmNWFjNTgwZWNhYTc2MDNkOTcwZDcxZjcxMjNjMjJjZGMyNjVhN2UyNzE1YTRhM2Yx",
             "url": "https://www.reliancedigital.in/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone/p/492850151"
         },
@@ -266,15 +266,15 @@
                 "MediaTek Helio G37 processor, Water-repellent design"
             ],
             "category": "mobile",
-            "brand": "Moto",
+            "brand": "Moto-g_Mobile",
             "image": "https://www.reliancedigital.in/medias/Motorola-G22-Mobile-Phone-492849923-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3NTc5NHxpbWFnZS9qcGVnfGltYWdlcy9oNGYvaGQ5Lzk4MTk3MjIyODUwODYuanBnfDlkZmIwYWZkMjRkMDI2NGM3NTdjZjVkOGQ0NmRlOTRlNjA0ZmVhY2VhY2M4ZDY5ZGUyN2Y1MTY3OTE5NTVjYzM",
             "url": "https://www.reliancedigital.in/moto-g22-64-gb-4-gb-ram-iceberg-blue-mobile-phone/p/492849923"
         },
         {
             "id": 17,
-            "name": "OnePlus 11R 5G 256 GB, 16 GB RAM, Galatic Silver, Mobile Phone",
-            "offer_price": 44999,
-            "actual_price": 40999,
+            "name": "OnePlus 9 128 GB, 8 GB RAM, Arctic Sky, Mobile Phone",
+            "offer_price": 31579,
+            "actual_price": 49999,
             "key_features": [
                 "Back Camera: 50 MP Main + 8 MP + 2 MP",
                 "Front Camera: 16 MP",
@@ -282,15 +282,15 @@
                 "Internal Storage: 256 GB, RAM: 16 GB"
             ],
             "category": "mobile",
-            "brand": "OnePlue",
-            "image": "https://www.reliancedigital.in/medias/OnePlus-11R-Mobile-Phone-493665200-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2NjczNzR8aW1hZ2UvanBlZ3xpbWFnZXMvaDg0L2g5Zi85OTY0MTk3OTY5OTUwLmpwZ3w2ZjdhZmQ5MGYzZGMzMWNmYTlhN2RhNTE3ZGI1YWU4ZTczMWZhZjUzN2FhODQwZjQ3NGYzOTRmOWRjYWM3NDVl",
-            "url": "https://www.reliancedigital.in/oneplus-11r-5g-256-gb-16-gb-ram-galatic-silver-mobile-phone/p/493665200"
+            "brand": "OnePlus_Mobile",
+            "image": "https://www.reliancedigital.in/medias/OnePlus-9-SmartPhones-491947285-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMDg4MTN8aW1hZ2UvanBlZ3xpbWFnZXMvaDNkL2hjNC85ODY5MTI1OTQzMzI2LmpwZ3xkMGRmYjk0ZDU1YjZlODA1ZTBmOTBlYzk2ZjZjOTViYmFhNWRhMWVjNzRhZDJlZjI4ODliNGI2Nzk5YzdlMGFj",
+            "url": "https://www.reliancedigital.in/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone/p/491947285"
         },
         {
             "id": 18,
-            "name": "Xiaomi Redmi Note 12 Pro 5G 128 GB, 6 GB RAM, Onyx Black, Mobile Phone",
-            "offer_price": 20999,
-            "actual_price": 27000,
+            "name": "Redmi Note 11s 128 GB, 6 GB RAM, Horizon Blue, Mobile Phone",
+            "offer_price": 15499,
+            "actual_price": 20999,
             "key_features": [
                 "Display: 16.94 cm (6.67 Inch) 120Hz Pro AMOLED",
                 "Back Camera: 50 MP Main + 8 MP Ultra-Wide Angle + 2 MP Macro",
@@ -299,15 +299,15 @@
                 "Internal Storage: 128 GB, RAM: 6 GB"
             ],
             "category": "mobile",
-            "brand": "Redmi",
-            "image": "https://www.reliancedigital.in/medias/Xiaomi-Note-12-Pro-Mobile-Phone-493664803-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTA2NzV8aW1hZ2UvanBlZ3xpbWFnZXMvaDViL2gzOC85OTQyMzU4NTU2NzAyLmpwZ3xlZjFmZjU3MzcwMDMyZGZlODRhNDU3YjE0M2M3NzlmYWQyZDgzMzMyYjc2MTUzMWE1YWJkOTQ5YzY5YjQyMmRj",
-            "url": "https://www.reliancedigital.in/xiaomi-redmi-note-12-pro-5g-128-gb-6-gb-ram-onyx-black-mobile-phone/p/493664803"
+            "brand": "Redmi_Mobile",
+            "image": "https://www.reliancedigital.in/medias/REDMI-NOTE-11S-Mobile-Phones-492849136-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTcwMTl8aW1hZ2UvanBlZ3xpbWFnZXMvaGEyL2gwYi85ODc5MTM2NTM0NTU4LmpwZ3wzYzA4OTQwZDY4ZDA2ZWRmMjgxOTBmOGU4MzNjZmNjYTFjYjU5ZTU5OTgyNWJlNjc2MTcyYWViZTQ3ZmUxOGRl",
+            "url": "https://www.reliancedigital.in/redmi-note-11s-128-gb-6-gb-ram-horizon-blue-mobile-phone/p/492849136"
         },
         {
             "id": 19,
-            "name": "OPPO F21s Pro 5G 128 GB, 8 GB RAM, Dawnlight Gold Mobile Phone",
-            "offer_price": 25999,
-            "actual_price": 31999,
+            "name": "Oppo A16 64 GB, 4 GB RAM, Pearl Blue, Mobile Phone",
+            "offer_price": 12990,
+            "actual_price": 16999,
             "key_features": [
                 "16.33 cm (6.43 Inch) FHD+ AMOLED Display",
                 "64 MP Portrait + 2 MP Micro + 2 MP Depth Primary Camera",
@@ -317,9 +317,9 @@
                 "IPX4 Water proof and Drop tested, Photo information protection"
             ],
             "category": "mobile",
-            "brand": "Oppo",
-            "image": "https://www.reliancedigital.in/medias/Oppo-F21s-Pro-Mobile-Phone-493177728-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4NjQ4NHxpbWFnZS9qcGVnfGltYWdlcy9oYjkvaDAyLzk4OTQ2MjI2MjU4MjIuanBnfGQwMTRiZDg0MzBkNDBmMjBhZjdlODE0YjI4NTA3YjA4ZDE3ZWFkMjYyZDdiN2NiMzVmODYyNjM4ZWI3YzliYTg",
-            "url": "https://www.reliancedigital.in/oppo-f21s-pro-5g-128-gb-8-gb-ram-dawnlight-gold-mobile-phone/p/493177728"
+            "brand": "Oppo_Mobile",
+            "image": "https://www.reliancedigital.in/medias/Oppo-A16-Smartphones-492391826-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzkwOTF8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2gzNi85NjM5MzcxNDQwMTU4LmpwZ3wxM2M5MjI0N2RmZWQ1MTVkODZjZGI0MTdhYjAyNmU4N2RhMzZmYzBjZjgwMmY2OGM2MTkwYzMxYjgyMDEwOWE4",
+            "url": "https://www.reliancedigital.in/oppo-a16-64-gb-4-gb-ram-pearl-blue-mobile-phone/p/492391826"
         },
         {
             "id": 20,
@@ -334,7 +334,7 @@
                 "Internal Storage: 128 GB, RAM: 8 GB"
             ],
             "category": "mobile",
-            "brand": "Vivo",
+            "brand": "Vivo_Mobile",
             "image": "https://www.reliancedigital.in/medias/Vivo-Y100-Mobile-Phone-493665035-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4NDM2OHxpbWFnZS9qcGVnfGltYWdlcy9oYWEvaDljLzk5NjQxODEyNTgyNzAuanBnfGYyMGM2MWY3NWU5NzA0NGQyOWI0NDIxZWU3ZDQ5Zjk0OGM2ZTNlZmYxMWRlOGI2ZDZiMjU1YjNlMjE0MTYzZDY",
             "url": "https://www.reliancedigital.in/vivo-y100-5g-128-gb-8-gb-ram-twilight-gold-mobile-phone/p/493665035"
         },
@@ -351,7 +351,7 @@
                 "Microsoft office: Yes"
             ],
             "category": "laptop",
-            "brand": "Hp",
+            "brand": "Hp_Laptop",
             "image": "https://www.reliancedigital.in/medias/HP-6Q2M3PA-ACJ-Laptop-493177049-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDkzMjV8aW1hZ2UvanBlZ3xpbWFnZXMvaGY1L2g0Yi85ODY0Mjg2ODYzMzkwLmpwZ3w3MTdmZGRjNDdkMjViNzA1ODY4NjQ0YWQ2NmRlMWIyZWU5YjZiZGE0Y2JmNTBmNTEzNWFlOTRkMDQwMTc5ZWRh",
             "url": "https://www.reliancedigital.in/hp-15s-fq5112tu-laptop-12th-gen-intel-core-i5-1235u-16gb-512gb-ssd-iris-xe-graphics-windows-11-home-mso-fhd-39-6-cm-15-6-inch-natural-silver/p/493177049"
         },
@@ -369,17 +369,17 @@
                 "Microsoft office included: Yes"
             ],
             "category": "laptop",
-            "brand": "Dell",
+            "brand": "Dell_Laptop",
             "image": "https://www.reliancedigital.in/medias/Dell-D560878WIN9S-Laptop-493664889-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTcwMjl8aW1hZ2UvanBlZ3xpbWFnZXMvaGJiL2gzZi85OTYyMjg4OTcxODA2LmpwZ3xkYjFhOTVkMWQ4Y2FlZWViYjllNDQ1YzJmN2FlNzI0ODNiNWE1YTQ2NzUwZWJjY2NhMDU0M2FiYTBhZTZhN2Zm",
             "url": "https://www.reliancedigital.in/dell-inspiron-15-3520-laptop-12th-gen-intel-core-i5-1235u-8-gb-512-gb-ssd-windows-11-home-integrated-graphics-mso-fhd-39-62-cm-15-6-inch-/p/493664889"
         },
         {
             "id": 23,
-            "name": "Dell Insprion 3520 Laptop (12th Gen-Intel-Core i5-1235U/8 GB RAM/512 GB/Intel Integrated Graphics/Windows 11/MSO/FHD)  39.62 cm (15.6 inch)",
-            "offer_price": 55993,
-            "actual_price": 65867,
+            "name": "Dell Vostro 5620 Laptop (12th Gen Intel Core i5-1240P/8 GB/512 GB SSD/Windows 11 Home/MSO/FHD), 40.64 cm (16 Inch)",
+            "offer_price": 66999,
+            "actual_price": 77999,
             "key_features": [
-                "Processor: 12th Gen-Intel Core i5-1235U Processor",
+                "Processor: 12th Gen Intel Core i5-1240P",
                 "RAM: 8 GB",
                 "Internal Storage: 512",
                 "Storage Type: SSD",
@@ -387,9 +387,9 @@
                 "Microsoft office included: Yes"
             ],
             "category": "laptop",
-            "brand": "Dell",
-            "image": "https://www.reliancedigital.in/medias/Dell-D560878WIN9S-Laptop-493664889-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTcwMjl8aW1hZ2UvanBlZ3xpbWFnZXMvaGJiL2gzZi85OTYyMjg4OTcxODA2LmpwZ3xkYjFhOTVkMWQ4Y2FlZWViYjllNDQ1YzJmN2FlNzI0ODNiNWE1YTQ2NzUwZWJjY2NhMDU0M2FiYTBhZTZhN2Zm",
-            "url": "https://www.reliancedigital.in/dell-insprion-3520-laptop-12th-gen-intel-core-i5-1235u-8-gb-ram-512-gb-intel-integrated-graphics-windows-11-mso-fhd-39-62-cm-15-6-inch-/p/493178764"
+            "brand": "Dell_Laptop",
+            "image": "https://www.reliancedigital.in/medias/Dell-D552268WIN9S-Laptop-493177290-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDMxNzh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU4L2gzYi85ODkyMjA2MzEzNTAyLmpwZ3w1OWQyNWJmMDhkODYxZjE5OWQyNzVkY2RhNzVhYWM3ODdlMmU0Yjc0MDkyMjFkNTAyNmRmZjgzN2I1NDYzNmY1",
+            "url": "https://www.reliancedigital.in/dell-vostro-5620-laptop-12th-gen-intel-core-i5-1240p-8-gb-512-gb-ssd-windows-11-home-mso-fhd-40-64-cm-16-inch-/p/493177290"
         },
         {
             "id": 24,
@@ -405,7 +405,7 @@
                 "Microsoft office included: Yes"
             ],
             "category": "laptop",
-            "brand": "Dell",
+            "brand": "Dell_Laptop",
             "image": "https://www.reliancedigital.in/medias/Dell-Inspiron-3520-Laptop-493837881-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5ODU0OXxpbWFnZS9qcGVnfGltYWdlcy9oZjAvaGU4Lzk5OTMwNjc1MjgyMjIuanBnfDc1ZjliNzgyNDU4NzkwZWViZTE1Yzc0ZGVjNWVkNmFmYWQxNWU3NDYwMTkxYmE1N2ExMGZjM2NkNjQxZWE2YTY",
             "url": "https://www.reliancedigital.in/dell-insprion-3520-laptop-12th-gen-intel-core-i3-1215u-8gb-ram-512-gb-intel-integrated-graphics-windows-11-mso-fhd-/p/493837881"
         },
@@ -422,7 +422,7 @@
                 "Microsoft office: Yes"
             ],
             "category": "laptop",
-            "brand": "Hp",
+            "brand": "Hp_Laptop",
             "image": "https://www.reliancedigital.in/medias/HP-6N045PA-ACJ-Laptop-492850808-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDkzMjV8aW1hZ2UvanBlZ3xpbWFnZXMvaDMxL2g1My85ODY0Mjc3MDMyOTkwLmpwZ3w2ZTMzZmE1YmMzZTkyNDVkZGJiZjBmN2I3YzBiNTExOGU4MGE3MWVlMDFkNTlhYTk0OGY4NDNjZTJkYmI0MTZl",
             "url": "https://www.reliancedigital.in/hp-15s-fq2672tu-laptop-11th-gen-intel-core-i3-1115g4-8gb-ram-512gb-ssd-uhd-graphics-windows-11-home-mso-fhd-39-6-cm-15-6-inch-natural-silver/p/492850808"
         },
@@ -440,7 +440,7 @@
                 "Microsoft office included: Yes"
             ],
             "category": "laptop",
-            "brand": "Hp",
+            "brand": "Hp_Laptop",
             "image": "https://www.reliancedigital.in/medias/HP-50M59PA-ACJ-LAPTOP-492575116-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5NjczOHxpbWFnZS9qcGVnfGltYWdlcy9oNjQvaDhlLzk4MzU0ODA3MTExOTguanBnfDE0NmZkYzdiYWM0ZjFhYjNjZDYxZmVhYjZkMGMwM2YzZWYyZWEzZmIwYjkzMGY4OWE5NzcyNTEzNmRkY2I1YTA",
             "url": "https://www.reliancedigital.in/hp-14s-fq1089au-laptop-amd-ryzen-3-5300u-8-gb-512-gb-ssd-windows-11-mso-fhd-35-56-cm-14-inch-/p/492575116"
         },
@@ -458,7 +458,7 @@
                 "Microsoft Office Included: Yes"
             ],
             "category": "laptop",
-            "brand": "Hp",
+            "brand": "Hp_Laptop",
             "image": "https://www.reliancedigital.in/medias/Hp-6P129PA-ACJ-Laptop-493177598-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDM5MzZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDFhL2hmYy85ODgyMjg5NjY4MTI2LmpwZ3w1YjJiYjNlMDAwNWM2NGU1ODYyNThlMmI5MGYxZjc1M2Y5ZmNlNDg5NWY1MzBkMzQ3NWY4ZGQ2ODU5MGIxNzBh",
             "url": "https://www.reliancedigital.in/hp-15s-fq5111tu-laptop-12th-gen-intel-core-i5-1235u-8-gb-ram-512-gb-ssd-windows-11-home-mso-fhd-39-6-cm-15-6-inch-/p/493177598"
         },
@@ -475,7 +475,7 @@
                 "Microsoft office included: Yes"
             ],
             "category": "laptop",
-            "brand": "Vivo",
+            "brand": "Asus_Laptop",
             "image": "https://www.reliancedigital.in/medias/Asus-M1603QA-MB511WS-Laptops-492850644-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzM4Njk5fGltYWdlL2pwZWd8aW1hZ2VzL2g4MS9oMDQvOTg1MTU4NjUxMDg3OC5qcGd8Y2I4OTEyZmRmNzM2NzI3MTc4NjlmNzAwZGY0YTg5YTI0NTQ0ZTc2MzAyNDI5ZGJhZTM3OTk2ODFkNzUxYzM5Zg",
             "url": "https://www.reliancedigital.in/asus-mb511ws-vivobook-16x-laptop-amd-ryzen-5-5600h-16-gb-512-gb-ssd-amd-radeon-vega-7-graphics-windows-11-mso-wuxga-40-64-cm-16-inch-/p/492850644"
         },
@@ -492,7 +492,7 @@
                 "Operating system: Windows 11 Home"
             ],
             "category": "laptop",
-            "brand": "Axl",
+            "brand": "Axl_Laptop",
             "image": "https://www.reliancedigital.in/medias/AXL-Lap01-Laptops-493665131-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MTY1MXxpbWFnZS9qcGVnfGltYWdlcy9oYzQvaDEyLzk5NjM3Mzg1NjI1OTAuanBnfGYzN2NlYmZlMzBmMTZlMTU3NzA2MmI0NmYyN2U1ZDMwNTM0YTJiMzYwMjA2NWViNGRjZDU0MTY4MzQwZGE4OTQ",
             "url": "https://www.reliancedigital.in/axl-vayu-book-thin-and-light-laptop-intel-celeron-n4020-4gb-128gb-ssd-uhd-graphics-windows-11-full-hd-35-81-cm-14-1-inch-/p/493665131"
         },
@@ -510,7 +510,7 @@
                 "Microsoft Office Included: Yes"
             ],
             "category": "laptop",
-            "brand": "Vivo",
+            "brand": "Asus_Laptop",
             "image": "https://www.reliancedigital.in/medias/Asus-FA506IHRZ-HN113WS-Laptop-493178258-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjAzNDJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDYyL2g1Ni85OTA0ODk3Nzg1ODg2LmpwZ3xmYTY2NGUzOWQ4ZmQxN2U4YjlkYzg5NzQ3Y2U4YTUzMGE3YTM4NGRmYTVlZWYwZTE3OTMwMDNmMWUzMTFjNjk4",
             "url": "https://www.reliancedigital.in/asus-hn113ws-tuf-gaming-a15-gaming-laptop-amd-ryzen-5-4600h-16-gb-512-gb-ssd-4-gb-nvidia-geforce-gtx-1650-graphics-windows-11-home-mso-fhd-39-62-cm-15-6-inch-/p/493178258"
         },
@@ -528,7 +528,7 @@
                 "Microsoft Office Included: Yes"
             ],
             "category": "laptop",
-            "brand": "Lenovo",
+            "brand": "Lenovo_Laptop",
             "image": "https://www.reliancedigital.in/medias/Lenovo-82H802XYIN-Laptops-493664583-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxOTkxNTh8aW1hZ2UvanBlZ3xpbWFnZXMvaDQ2L2hlZi85OTgyNDc0MzU0NzE4LmpwZ3wwYTk5NjFiZDFjMjlmZTY3NDQ0MGFjOTlkMzIxNWNhZTY3NDg4MTYzMGY2NTM3YzlhNDc0ODVkMjQzYTIzZmRm",
             "url": "https://www.reliancedigital.in/lenovo-xyin-ideapad-3-thin-and-light-laptop-11th-gen-intel-core-i5-1135g7-8gb-512gb-ssd-intel-iris-xe-graphics-windows-11-mso-full-hd-39-62-cm-15-6-inch-/p/493664583"
         },
@@ -546,7 +546,7 @@
                 "Microsoft Office included: FALSE"
             ],
             "category": "laptop",
-            "brand": "Asus",
+            "brand": "Asus_Laptop",
             "image": "https://www.reliancedigital.in/medias/Asus-Vivobook-NK321WS-493665872-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0ODA0M3xpbWFnZS9qcGVnfGltYWdlcy9oYTEvaGQ1LzEwMDIyNDU0NzU1MzU4LmpwZ3xjZDNhYWUzNzdhZDIyMmZhOGQxODM3MWQ1NTMwOTE3NzU0ZWE1YjdhZTA2OGUwZGVmOWZhNzkwNGI1YWU4NzFj",
             "url": "https://www.reliancedigital.in/asus-nk321ws-vivobook-go-14-laptop-amd-ryzen-3-7320u-8gb-512-ssd-windows-11-home-fhd-34-03-cm-14-0-inch-/p/493665872"
         },
@@ -565,7 +565,7 @@
                 "Microsoft office included: No"
             ],
             "category": "laptop",
-            "brand": "Asus",
+            "brand": "Asus_Laptop",
             "image": "https://www.reliancedigital.in/medias/Asus-P1440FA-FQ2348R-Laptops-491901271-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzk1NTd8aW1hZ2UvanBlZ3xpbWFnZXMvaDU4L2g4NS85Mzk0Mjg1MjQ4NTQyLmpwZ3wzM2ZjZDMzYzg1ODVlYzQ4ZDhkNDU4MzVjZTc2OTU1NWU4ZjcyZWI2MDMwZDE5ODc4N2I2ZjE2NTI3MzZiZTNl",
             "url": "https://www.reliancedigital.in/asus-expertbook-p1-p1440fa-laptop-10th-gen-intel-core-i3-10110u-4gb-1tb-intel-uhd-graphics-620-windows-10-pro-mso-lcd-35-56-cm-14-inch-/p/491901271"
         },
@@ -584,7 +584,7 @@
                 "Microsoft office included: Yes"
             ],
             "category": "laptop",
-            "brand": "Lenovo",
+            "brand": "Lenovo_Laptop",
             "image": "https://www.reliancedigital.in/medias/Lenovo-82FG00BQIN-Laptops-491946562-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNTk3NTl8aW1hZ2UvanBlZ3xpbWFnZXMvaGMyL2hiZS85NDUzODkyODk0NzUwLmpwZ3w2YzE0ODcxZDVlZjQ0MTNiNmUyNTg3NzA5MTQzOTE0NWZmM2YyZDE2MWE1MWY2NWJiZGY3ODVlYTY3YTFhNGYy",
             "url": "https://www.reliancedigital.in/lenovo-bqin-ideapad-5-laptop-11th-gen-intel-core-i5-1135g7-8gb-1tb-hdd-256gb-pcie-ssd-intel-iris-xe-graphics-windows-10-mso-fhd-39-62-cm-15-6-inch-/p/491946562"
         },
@@ -620,27 +620,26 @@
                 "Microsoft Office included: Yes"
             ],
             "category": "laptop",
-            "brand": "Lenovo",
+            "brand": "Lenovo_Laptop",
             "image": "https://www.reliancedigital.in/medias/Lenovo-4HIN-IdeaPad-493838278-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MjgxMXxpbWFnZS9qcGVnfGltYWdlcy9oMmMvaDg0LzEwMDE0Mzg4Mzg3ODcwLmpwZ3xiYjIxZGY2MjgxZjI0NzBlYWUzZGI3MzQ1MDg2NTY1NjhkMDE2YTA0YzUyMGNhNWMwNzkxNDE4NjZkMTYwMDNk",
             "url": "https://www.reliancedigital.in/lenovo-4hin-ideapad-slim-3-laptop-amd-ryzen-7-5700u-16gb-512gb-ssd-integrated-amd-radeon-graphics-windows-11-home-mso-fhd-38-1-cm-15-6-inch-/p/493838278"
         },
         {
             "id": 37,
-            "name": "Apple MGN63HNA MacBook Air (Apple M1 Chip/8GB/256GB SSD/macOS Big Sur/Retina), 33.78 cm (13.3 inch)",
-            "offer_price": 84490,
-            "actual_price": 99900,
+            "name": "Apple MacBook Pro Laptop (Apple M2 Pro Chip/16 GB/512 GB SSD/macOS Ventura/Liquid Retina), 41.05 cm (16.2 Inch)",
+            "offer_price": 249000,
+            "actual_price": 256000,
             "key_features": [
-                "Octa-core Apple M1 Chip Processor",
-                "RAM: 8GB",
-                "Internal storage: 256 GB",
+                "Processor: Apple M2 Pro Chip 12-Core",
+                "RAM: 16 GB",
+                "Internal Storage: 512 GB",
                 "Storage Type: SSD",
-                "Operating system: MacOS",
-                "Microsoft office included: No"
+                "Operating System: macOS Ventura"
             ],
             "category": "laptop",
-            "brand": "Apple",
-            "image": "https://www.reliancedigital.in/medias/Apple-MGN63HNA-Laptops-491946461-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNzczNDJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDVhL2gyZC85NDQzMDgzNTgzNTE4LmpwZ3xhYzRiNWIxZGQ2NjNiNWIyYjI0Y2ZkYTZlZWQ3MTFjZTMxYzVmNDBiNmM5Mzk5OTM2OGVkZmExMjMyYjIxNDQ4",
-            "url": "https://www.reliancedigital.in/apple-mgn63hna-macbook-air-apple-m1-chip-8gb-256gb-ssd-macos-big-sur-retina-33-78-cm-13-3-inch-/p/491946461"
+            "brand": "Apple_Laptop",
+            "image": "https://www.reliancedigital.in/medias/Apple-MNW83HN-A-Laptop-493664947-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MjU3MnxpbWFnZS9qcGVnfGltYWdlcy9oNGQvaGVlLzk5NTAxNTk1MDMzOTAuanBnfDEzY2I3NTUxZDI4NjJjODExZmUxMTlkNDE0YjYxZDliM2Y5OGYyYTYwY2E4NGMzMTU1NmZhZjA2ZWE2MzEwZTQ",
+            "url": "https://www.reliancedigital.in/apple-macbook-pro-laptop-apple-m2-pro-chip-16-gb-512-gb-ssd-macos-ventura-liquid-retina-41-05-cm-16-2-inch-/p/493664947"
         },
         {
             "id": 38,
@@ -656,7 +655,7 @@
                 "Microsoft office included: No"
             ],
             "category": "laptop",
-            "brand": "Apple",
+            "brand": "Apple_Laptop",
             "image": "https://www.reliancedigital.in/medias/Apple-MLY33HN-A-Laptop-492850656-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5OTE3OXxpbWFnZS9qcGVnfGltYWdlcy9oMGYvaDMxLzk4NTA5NDkxNzMyNzguanBnfGM5NWY2ZmFmNGU0NjA1NDJhMDNkMmM1ZTQyYWY0NGQ1NGY5YTYxY2JlM2Q4MWYzZDRiODQyM2NhNTMxOGQ5MWU",
             "url": "https://www.reliancedigital.in/apple-mly33hna-macbook-air-apple-m2-chip-8gb-256gb-ssd-macos-liquid-retina-34-46-cm-13-6-inch-midnight/p/492850656"
         },
@@ -674,7 +673,7 @@
                 "Microsoft office included: No"
             ],
             "category": "laptop",
-            "brand": "Apple",
+            "brand": "Apple_Laptop",
             "image": "https://www.reliancedigital.in/medias/Apple-MGND3HNA-Laptops-491946465-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNzY2MTF8aW1hZ2UvanBlZ3xpbWFnZXMvaDI3L2hiNS85NDQzMDkxMTIwMTU4LmpwZ3w2MjI5MThmNzY4Njk0MmZhNDc3Y2UzMGM4ODM0ZmY0YzFmNjNjYzkxMDM0ZWJlZGVkMWFmNDc0YTEwODE5Njcw",
             "url": "https://www.reliancedigital.in/apple-mgnd3hna-macbook-air-apple-m1-chip-8gb-256gb-ssd-macos-big-sur-retina-33-78-cm-13-3-inch-/p/491946465"
         },
@@ -692,7 +691,7 @@
                 "Microsoft office included: No"
             ],
             "category": "laptop",
-            "brand": "Apple",
+            "brand": "Apple_Laptop",
             "image": "https://www.reliancedigital.in/medias/Apple-MBPMK183HNA-MacBook-Pro-492573380-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxOTQ1OTN8aW1hZ2UvanBlZ3xpbWFnZXMvaGYyL2hiZi85Njc2NDE3MzY4MDk0LmpwZ3w1M2Q0NWZlZWU0NzI3NTcxOTljOTJhNjJhYTExODA0NTRjNWI2ZDNlNzYyYzlkYTRmMmMzMGM3MWVmYWJmNzIy",
             "url": "https://www.reliancedigital.in/apple-mbpmk183hna-macbook-pro-apple-m1-pro-chip-16gb-512gb-macos-monterey-liquid-retina-xdr-41-05-cm-16-inch-/p/492573380"
         },
@@ -711,7 +710,7 @@
                 "Vivid Picture Engine"
             ],
             "category": "television",
-            "brand": "Mi",
+            "brand": "Mi_Television",
             "image": "https://www.reliancedigital.in/medias/Mi-4A-Horizon-Edition-Television-492166368-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjk2MzB8aW1hZ2UvanBlZ3xpbWFnZXMvaDY5L2hkYS85NzkwODc0NTE3NTM0LmpwZ3wwYmMzMWVjZWU4M2FiOTljNmVmNTYzYjhlYjY1NGIyZTEwNzc0ZTI1M2Y3YTFhMTEyYmRlOGMyODYwMmUzYzU1",
             "url": "https://www.reliancedigital.in/mi-32-hd-ready-smart-led-tv-4a-horizon-ela4546in/p/492166368"
         },
@@ -730,7 +729,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "Oneplus",
+            "brand": "Oneplus_Television",
             "image": "https://www.reliancedigital.in/medias/ONEPLUS-32Y1-TV-491895010-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjEzMzZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGI4L2gyZC85ODEwMDU4NzA2OTc0LmpwZ3w2Yzg5YmJmZWM4NTdhYmY1MDA0OWRkYTFlZTA0ZWM1MzNkYjA4NzNmZDliZWFkYzg2ZWIyZmE5MmE4YjBjNzc3",
             "url": "https://www.reliancedigital.in/oneplus-81-28-cm-32-inch-hd-smart-led-tv-32y1/p/491895010"
         },
@@ -749,7 +748,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "Oneplus",
+            "brand": "Oneplus_Television",
             "image": "https://www.reliancedigital.in/medias/ONEPLUS-43Y1-TV-491895011-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODYzOTV8aW1hZ2UvanBlZ3xpbWFnZXMvaGFlL2gzOC85ODEwMDU4Mzc5Mjk0LmpwZ3wwYWE2Y2UzOTE3MzU3ODI0ZjJmZjhkZGVmZTVkNzc3ODlmNzIwMjQ3N2U0ZWViMzFmOGYxMmYxZWNiZGM2NGUx",
             "url": "https://www.reliancedigital.in/oneplus-108-cm-43-inch-full-hd-smart-led-tv-43y1/p/491895011"
         },
@@ -769,7 +768,7 @@
                 "Get additional 1 year comprehensive warranty (valid till 30th Nov)"
             ],
             "category": "television",
-            "brand": "Samsung",
+            "brand": "Samsung_Television",
             "image": "https://www.reliancedigital.in/medias/Samsung-UA32T4340BKXXL-Smart-Television-492403650-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxOTMxMDl8aW1hZ2UvanBlZ3xpbWFnZXMvaDIyL2hmMy85ODQyMjA0OTM0MTc0LmpwZ3w4MTM3ZTc5YjY1NzhiNTYyZDFiMmNhMDI3OWU3NzQxZWUzMmVmYWI5NmFiMDUxMmY2ZjAzNWQyZjBmZDI3YTkx",
             "url": "https://www.reliancedigital.in/samsung-wondertainment-80-cm-32-inch-smart-hd-ready-tv-ua32t4340bkxxl/p/492403650"
         },
@@ -787,7 +786,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "Hisense",
+            "brand": "Hisense_Television",
             "image": "https://www.reliancedigital.in/medias/Hisense-32A4G-Smart-Television-492338740-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODUzMzl8aW1hZ2UvanBlZ3xpbWFnZXMvaDEyL2hhYi85Nzc5NjYxNzY2Njg2LmpwZ3wzYWUzNGRjMzVmMjdmMmIxNGQ1MTVhMjYyZGE2MWNhOTViZDFmMGIyNmIyMDMzMzkxZjEwZjdmZGM1OGU5NGJh",
             "url": "https://www.reliancedigital.in/hisense-80-cm-32-inch-2yr-warranty-hd-smart-led-tv-with-one-touch-access-built-in-google-assistant-32a4g-/p/492338740"
         },
@@ -805,7 +804,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "Oneplus",
+            "brand": "Oneplus_Television",
             "image": "https://www.reliancedigital.in/medias/OnePlus-40Y1-Television-492338486-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MDU4Mzh8aW1hZ2UvanBlZ3xpbWFnZXMvaGExL2g3NC85NTU3NDQyODg3NzEwLmpwZ3w1MDNjY2ZlOTE2NmUzNzlmZjcwMTJmM2Q5Mjg4OGY1NzM2ZDFlN2UyZDU3YTBkYWFkYjg0ZDk5OTQxNzVjZDc5",
             "url": "https://www.reliancedigital.in/oneplus-100-cm-40-inch-full-hd-led-smart-tv-y-series-40y1/p/492338486"
         },
@@ -822,7 +821,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "Redmi",
+            "brand": "Redmi_Television",
             "image": "https://www.reliancedigital.in/medias/Xiaomi-ELA4777IN-Televisions-493285620-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2OTczNDB8aW1hZ2UvanBlZ3xpbWFnZXMvaGQ4L2hjYS85ODcwMDI0NjcxMjYyLmpwZ3wyN2RmY2ExNDg2ZTNiNDgzNjllOTg1YjNlYmU2NWI5ODM5MWY4YzcyYzc3NGU5ODI1MjJlZDZmZTA5NDkyNmE3",
             "url": "https://www.reliancedigital.in/xiaomi-5a-100-cm-40-inch-full-hd-led-smart-android-tv-with-dolby-audio/p/493285620"
         },
@@ -846,7 +845,7 @@
                 "Powerful 64-bit Quad Core Processor"
             ],
             "category": "television",
-            "brand": "Realme",
+            "brand": "Realme_Television",
             "image": "https://www.reliancedigital.in/medias/Realme-Realme-32-Televisions-491973484-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MTYxNTl8aW1hZ2UvanBlZ3xpbWFnZXMvaDczL2hlZS85NDc1OTcxOTczMTUwLmpwZ3wwM2Y5M2JiMjA1NWNiYTYyMzk0Y2NkODA1MzUxYzdjODg4MTViZDU1N2FhZGVhODAwZDJjZDYzZWM1NjkzMDFl",
             "url": "https://www.reliancedigital.in/realme-80-cm-32-inch-hd-ready-led-smart-tv/p/491973484"
         },
@@ -862,7 +861,7 @@
                 "40 Watts Speaker"
             ],
             "category": "television",
-            "brand": "Mi",
+            "brand": "Mi_Television",
             "image": "https://www.reliancedigital.in/medias/Xiaomi-ELA4692IN-Television-492571698-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NjcyODV8aW1hZ2UvanBlZ3xpbWFnZXMvaDcyL2gwNS85NzM1ODIzNzUzMjQ2LmpwZ3w0MWY3YzNkMTJjNWUwNWUxYjAyZjlhOGRmMjA4ZDdhYzI0ZTY3ZDI5YTY4ZjYzZTYxOTkxYzQzZGVjNGJlMzZm",
             "url": "https://www.reliancedigital.in/mi-109-22-cm-43-inch-ultra-hd-4k-led-smart-tv-5x-ela4692in/p/492571698"
         },
@@ -879,7 +878,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "Redmi",
+            "brand": "Redmi_Television",
             "image": "https://www.reliancedigital.in/medias/Xiaomi-ELA4773IN-Televisions-493285621-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3NzE1ODZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDExL2g5Ni85ODcwMDIwNzM5MTAyLmpwZ3wwMmFmYjU2YWM2MWEzYmJhZWM4ZmE1MzM2ZmMxZTQ2YjQ2NmExNTE1Y2M4NmUzOGQyZjljZGEwMmMwMGE4ODVm",
             "url": "https://www.reliancedigital.in/xiaomi-5a-108-cm-43-inch-full-hd-led-smart-android-tv-with-dolby-audio/p/493285621"
         },
@@ -897,7 +896,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "BPL",
+            "brand": "BPL_Television",
             "image": "https://www.reliancedigital.in/medias/BPL-32-HD-Television-492166140-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMTQ2NDB8aW1hZ2UvanBlZ3xpbWFnZXMvaDkzL2hlMC85NzMwMjcxOTM2NTQyLmpwZ3wyOTcyMjc4ZWZlNjkwYjhmMjhlMTc2YjJiNWZiYzFjNDM5NjIyODRiZmE4NjFhNDQwOTQyZjI2MTc4NGYwMWIx",
             "url": "https://www.reliancedigital.in/bpl-81-28-cm-32-inch-hd-ready-android-smart-led-tv-32h-a4301/p/492166140"
         },
@@ -915,7 +914,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "Hisense",
+            "brand": "Hisense_Television",
             "image": "https://www.reliancedigital.in/medias/HISENSE-55U6G-Smart-LED-492338741-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NTA3Mjh8aW1hZ2UvanBlZ3xpbWFnZXMvaGE4L2hhZC85Nzc5MjMyNjM2OTU4LmpwZ3wxNDhjZDU4NTdhYmFlMTUzYzQzNjhjNWE3YzU0ZTEzMTM3Y2Q2NGE4NTk3NWRkZmQxNTk3YmU3ODc4NGQyYjRh",
             "url": "https://www.reliancedigital.in/hisense-139-cm-55-inch-2yr-warranty-4k-ultra-hd-smart-certified-android-qled-tv-55u6g-metal-gray-/p/492338741"
         },
@@ -933,7 +932,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "Sansui",
+            "brand": "Sansui_Television",
             "image": "https://www.reliancedigital.in/medias/Sansui-JSW32ASHD-Televisions-491973449-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNTk0MDB8aW1hZ2UvanBlZ3xpbWFnZXMvaGVmL2g1NC85ODUxNDEwOTM5OTM0LmpwZ3w1M2JmNmQwN2Q0NTNiNGZkY2EyZjFhNGU2ZjE0MGVhNGM4MWEzOTAyZTIxMzE5ZTA1ZTI2ZTNjMjI5NTliMzQ5",
             "url": "https://www.reliancedigital.in/sansui-prime-series-80-cm-32-inch-hd-ready-certified-android-led-tv-jsw32ashd-midnight-black-with-android-11/p/491973449"
         },
@@ -951,7 +950,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "BPL",
+            "brand": "BPL_Television",
             "image": "https://www.reliancedigital.in/medias/BPL-43F-A4301-LED-Televisions-492796630-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4ODc4M3xpbWFnZS9qcGVnfGltYWdlcy9oMzIvaDg3Lzk5MDgwNjI1NTIwOTQuanBnfDUzNTk2YmYwOWIzZTQzN2Q1YmY4MDJkYTJiNTk0YjcxYWNiZjY2YTJkZTRlMjY3NzBjMGRmZDI3ZDUyMGYwOGE",
             "url": "https://www.reliancedigital.in/bpl-109-22-cm-43-inch-full-hd-smart-led-tv-43f-a4301/p/492796630"
         },
@@ -969,7 +968,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "TCL",
+            "brand": "TCL_Television",
             "image": "https://www.reliancedigital.in/medias/TCL-43C635-Smart-TV-492913008-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTM3OTB8aW1hZ2UvanBlZ3xpbWFnZXMvaDFiL2g4Ni85OTMxMTQxMjE4MzM0LmpwZ3wxZTBhNjExMzk5OThmOTljZTJhZTQ4NmYxODYzZDJmYTRiNDY0M2FlZjAxNjJmNzNjOWJlYzdkNTE2ZDRlM2Rk",
             "url": "https://www.reliancedigital.in/tcl-109-cm-43-inch-2yr-warranty-ultra-hd-4k-qled-smart-tv-43c635/p/492913008"
         },
@@ -987,7 +986,7 @@
                 "Refresh Rate: 60 Hz"
             ],
             "category": "television",
-            "brand": "Sansui",
+            "brand": "Sansui_Television",
             "image": "https://www.reliancedigital.in/medias/Sansui-JSW55ASUHD-Televisions-491973454-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzg0ODF8aW1hZ2UvanBlZ3xpbWFnZXMvaGMyL2g4Mi85ODUxNDE3NTU5MDcwLmpwZ3xiZDE2MDJkMTVkOGQxYzJhNTMxZTgzMjNjMGI1ZDQ4YzA3MGY0OTEzYmIwNWNhM2U3Nzk4YzhmMzdhYTA1MzQ4",
             "url": "https://www.reliancedigital.in/sansui-prime-series-140cm-55-inch-4k-ultra-hd-certified-android-led-tv-jsw55asuhd-mystique-black-with-dolby-audio-and-dts/p/491973454"
         },
@@ -1004,7 +1003,7 @@
                 "Connectivity: 3 HDMI ports to connect set top box, Blu Ray players, gaming console, 2 USB ports to connect hard drives and other USB devices"
             ],
             "category": "television",
-            "brand": "Sony",
+            "brand": "Sony_Television",
             "image": "https://www.reliancedigital.in/medias/Sony-KD-32W830K-IN5-Television-492912672-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4NzUxNHxpbWFnZS9qcGVnfGltYWdlcy9oNWQvaDRlLzk4Mjg5NTYzNzMwMjIuanBnfGE4MTc2ZDViZGQ3YzJlMGM5OTM1MjM3MDUwYzI0ZmQwM2U2NjM1YTIzMWFkYzIzYmY4YmMzMjE1N2QzZmExYjk",
             "url": "https://www.reliancedigital.in/sony-bravia-80-cm-32-inches-hd-ready-smart-led-google-tv-with-dolby-audio-alexa-compatibility-kd-32w830k-black-/p/492912672"
         },
@@ -1022,7 +1021,7 @@
                 "Refresh Rate: 100 Hz"
             ],
             "category": "television",
-            "brand": "LG",
+            "brand": "LG_Television",
             "image": "https://www.reliancedigital.in/medias/LG-55NANO91-Television-491897986-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4NDI2NnxpbWFnZS9qcGVnfGltYWdlcy9oZGYvaDQ5Lzk0NDA2MzIzNDA1MTAuanBnfDgwZWQ2NzI2OWExMzE0ZjBlODA2NWE2ZTU1YTQyM2Q1NTYxNWM0Y2FjMDMzMTBkNDVjNjkyMDY3NTZhYTJmZTk",
             "url": "https://www.reliancedigital.in/lg-nano91-139-7-cm-55-inch-ultra-hd-4k-led-smart-tv-55nano91/p/491897986"
         },
@@ -1040,7 +1039,7 @@
                 "Refresh Rate: 50 Hz"
             ],
             "category": "television",
-            "brand": "LG",
+            "brand": "LG_Television",
             "image": "https://www.reliancedigital.in/medias/LG-65NANO80-Television-491897989-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4NDY2MHxpbWFnZS9qcGVnfGltYWdlcy9oM2IvaGQ2LzkzNzk2NTAwNzY3MDIuanBnfDYxMTEzZjUwNmVlNmI1NTVjNWU5MTZhM2RjY2RmODA4YzI4YTljZWNjNTVlODhjOThlN2Y2YmViZmM4OTkwYjM",
             "url": "https://www.reliancedigital.in/lg-165-1-cm-65-inch-ultra-hd-4k-led-smart-tv-65nano80/p/491897989"
         },
@@ -1056,33 +1055,33 @@
                 "40 Watts Speaker"
             ],
             "category": "television",
-            "brand": "Mi",
+            "brand": "Mi_Television",
             "image": "https://www.reliancedigital.in/medias/Xiaomi-ELA4696IN-Television-492571696-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NDM1MTB8aW1hZ2UvanBlZ3xpbWFnZXMvaDlhL2gyMC85NzM1ODM4MTA1NjMwLmpwZ3wyNzc4MTcwNmM3OTBhZWQwNWI5ZTg2NGZmMTQyMTM5MTExNDUwNzdhNDZkMjQ5MTQwNzhiMGNhZGJmZmZmNzcy",
             "url": "https://www.reliancedigital.in/mi-139-70-cm-55-inch-ultra-hd-4k-led-smart-tv-5x-ela4696in/p/492571696"
         },
         {
             "id": 61,
-            "name": "OnePlus Bullets Z2 Wireless Neckband Earphone with IP55 Sweat & water Resistant, upto 30 hrs playtime, AI Noise Cancellation, Acoustic Red",
-            "offer_price": 1999,
+            "name": "OnePlus Nord Buds 2r True Wireless in Ear Earbuds with Mic, 12.4mm Drivers, Playback upto 38hr case,4-Mic Design, IP55 Rating(Blue)",
+            "offer_price": 2199,
             "actual_price": 2299,
             "key_features": [
-                "10-minute gives 20 hours of audio playback",
-                "30 hours of non-stop music on a single charge",
-                "A large 12.4 mm bass driver",
-                "Anti-distortion audio technology",
-                "IP55 rated sweat and water resistant",
-                "AI call nise cancellation"
+                "12.4mm extra large drivers",
+                "38 Hours total listening time",
+                "Dual Mics + AI Clear Call",
+                "Titanium coated dynamic driver",
+                "Bluetooth 5.3",
+                "94ms ultra low latency"
             ],
             "category": "earphone",
-            "brand": "Oneplus",
-            "image": "https://www.reliancedigital.in/medias/OnePlus-Bullets-Z2-Earphone-492913029-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NTEyOXxpbWFnZS9qcGVnfGltYWdlcy9oOTQvaGM2Lzk4NTc2ODk0MTk4MDYuanBnfGIyODZlNjc1YTc1ODIxOGE1ZmEzZDE4YWU1ZDFjYWViYjBlMGQzMDUxYzNjMDIwODAzN2JjNTE4ZmJmMWZlODM",
-            "url": "https://www.reliancedigital.in/oneplus-bullets-z2-wireless-neckband-earphone-with-ip55-sweat-water-resistant-upto-30-hrs-playtime-ai-noise-cancellation-acoustic-red/p/492913029"
+            "brand": "Oneplus_earphone",
+            "image": "https://www.reliancedigital.in/medias/ONEPLUS-TWS-Nord-Buds-493911534-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2NTQxMzB8aW1hZ2UvanBlZ3xpbWFnZXMvaGM4L2g1OS8xMDAyNjAzMDAzOTA3MC5qcGd8NjJkYTcyMmM3ODcxYmNmYmI0NzU0NWQ1N2FhNWJjNmM2NWEyYTk2OWIyYmRlMmQ5OWQxNzMzZTE3MTAzNDE3MA",
+            "url": "https://www.reliancedigital.in/oneplus-nord-buds-2r-true-wireless-in-ear-earbuds-with-mic-12-4mm-drivers-playback-upto-38hr-case-4-mic-design-ip55-rating-blue-/p/493911534"
         },
         {
             "id": 62,
-            "name": "Apple Airpods Pro (2nd Gen) with MagSafe Charging Case, Active Noise Cancellation, Touch control, IPX4 Sweat and water resistant, Bluetooth v5.3, Upto 30 hrs of playtime, White",
-            "offer_price": 23990,
-            "actual_price": 26900,
+            "name": "Apple AirPods (2nd Generation) with Charging Case, Hands-free Hey Siri, Upto 24 hrs of playtime, Speech-detecting accelerometer, MV7N2HN/A",
+            "offer_price": 11990,
+            "actual_price": 14100,
             "key_features": [
                 "Active Noise Cancellation",
                 "Custom high dynamic range amplifier",
@@ -1096,45 +1095,44 @@
                 "Up to 6 hours of listening time with a single charge"
             ],
             "category": "earphone",
-            "brand": "Apple",
-            "image": "https://www.reliancedigital.in/medias/Apple-Airpods-Pro-493177748-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MjUwOXxpbWFnZS9qcGVnfGltYWdlcy9oZTAvaDExLzk4OTA3NTA4MjQ0NzguanBnfDBkOGExYzJhMmM2MzcyMTkwMGI0YWFhMWE0MDU2Y2YxOTRhY2UwMDQ5MWExMmM3Zjc1OWE0MDA2M2Y2ZmZmN2E",
-            "url": "https://www.reliancedigital.in/apple-airpods-pro-2nd-gen-with-magsafe-charging-case-active-noise-cancellation-touch-control-ipx4-sweat-and-water-resistant-bluetooth-v5-3-upto-30-hrs-of-playtime-white/p/493177748"
+            "brand": "Apple_earphone",
+            "image": "https://www.reliancedigital.in/medias/Apple-Airpods-BTStereo-CC-491431363-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5Mzc2N3xpbWFnZS9qcGVnfGltYWdlcy9oNGUvaDA2LzkxMjg1MzkzMjQ0NDYuanBnfDlkYWFmZjhhODYxZTIxNDg0ODFmMjU4NDJkNmQ1ZWVhMjU5MmI3MWNiNDM2MzE2NzMzYWNmOWNmNjE0ZmNhYzE",
+            "url": "https://www.reliancedigital.in/apple-airpods-2nd-generation-with-charging-case-hands-free-hey-siri-upto-24-hrs-of-playtime-speech-detecting-accelerometer-mv7n2hn-a/p/491431363"
         },
         {
             "id": 63,
-            "name": "boAt Airdopes 138 Pro True Wireless Earbuds with Up to 45 Hours Playback, Bluetooth v5.3, IPX5 Water Resistance, One Touch Voice Assistant Support, Charging Indicator, ENx Technology, (Black , TWS)",
-            "offer_price": 1099,
-            "actual_price": 1499,
+            "name": "boAt Airdopes Hype True wireless with Total Playtime 100 hours, Quad Mics with ENx Technology, 13mm drivers boAt Signature Sound, BEAST Mode, IPX5 (Aero Blue,TWS in Ear buds)",
+            "offer_price": 1499,
+            "actual_price": 1799,
             "key_features": [
-                "Unbeatable 11 mm Drivers",
-                "Up to 45 Hours Playback Time",
-                "Bluetooth Version 5.3",
-                "IPX5 Water Resistance",
-                "One Touch Voice Assistant Support",
-                "Quad Mic Setup"
+                "13mm Drivers",
+                "Quad Mics with ENx Tech",
+                "Total Playtime: 100 hour",
+                "IWP Technology",
+                "IPX5 Sweat Resistance",
+                "BEAST Mode 50ms"
             ],
             "category": "earphone",
-            "brand": "Boat",
-            "image": "https://www.reliancedigital.in/medias/boAt-Airdopes-138-Pro-True-Wireless-493179414-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MDIzNXxpbWFnZS9qcGVnfGltYWdlcy9oNjEvaDQxLzk5MDgwNTIzOTQwMTQuanBnfGUwYTQwNTNmNzQxNGIzMGMwMjE5YjRkNmQ3YzU1ODE3MzMyM2E0NjE4N2ZjYzdjZjRkZjJhNDQxYjAwY2VlZGM",
-            "url": "https://www.reliancedigital.in/boat-airdopes-138-pro-true-wireless-earbuds-with-up-to-45-hours-playback-bluetooth-v5-3-ipx5-water-resistance-one-touch-voice-assistant-support-charging-indicator-enx-technology-black-tws-/p/493179414"
+            "brand": "Boat_earphone",
+            "image": "https://www.reliancedigital.in/medias/boAt-Airdopes-Hype-493911451-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NjA3NHxpbWFnZS9qcGVnfGltYWdlcy9oYWQvaDAxLzEwMDE5ODgxMDU4MzM0LmpwZ3wwZjRkMGVkNWM1MjZjZTM3OTRkMDQzMDhkNTFjYmEzMDVhMjIzZGE4MGVlMmZkZGNjM2ZmYjFhMmNiNDY2NzRk",
+            "url": "https://www.reliancedigital.in/boat-airdopes-hype-true-wireless-with-total-playtime-100-hours-quad-mics-with-enx-technology-13mm-drivers-boat-signature-sound-beast-mode-ipx5-aero-blue-tws-in-ear-buds-/p/493911451"
         },
         {
             "id": 64,
-            "name": "Noise TWS Buds Ace Wireless In-Ear Earbuds with 24 Hour Playback Time, Hyper Sync, Bluetooth v5.3, Charcoal Black",
-            "offer_price": 999,
-            "actual_price": 3499,
+            "name": "Noise Air Buds Pro Two with Active Noise Cancellation, 10 mm Driver, Up to 25 hour Playtime, Hybrid Active Noise Cancellation, IPX5 Water Resistance, Voice Assistant, Snow White",
+            "offer_price": 2699,
+            "actual_price": 7999,
             "key_features": [
-                "13 mm driver",
-                "Hyper Sync",
-                "Tru Bass",
-                "Bluetooth v5.3",
-                "Playtime : Upto 6 hrs",
-                "10min Charge gives 150min playtime"
+                "10 mm Sound Driver",
+                "Up to 25 hour Playtime",
+                "Hybrid Active Noise Cancellation",
+                "Triple Mic with ENC",
+                "IPX5 Water Resistance"
             ],
             "category": "earphone",
-            "brand": "Noise",
-            "image": "https://www.reliancedigital.in/medias/Noise-AUD-HDPHN-BUDSACE-True-Wireless-492912962-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2ODY5NHxpbWFnZS9qcGVnfGltYWdlcy9oMjIvaGE1Lzk4NDIwODI4NDA2MDYuanBnfDg3NzEyMzA1MjUzOWQ1ZTI2ZjZiZmE5MWY4YjZhYWYzYzg1Y2ZiODY4NDExOWEwZjg3MzA4MTM1ZTlkZTlmNjc",
-            "url": "https://www.reliancedigital.in/noise-tws-buds-ace-wireless-in-ear-earbuds-with-24-hour-playback-time-hyper-sync-bluetooth-v5-3-charcoal-black/p/492912962"
+            "brand": "Noise_earphone",
+            "image": "https://www.reliancedigital.in/medias/Noise-Air-Buds-Pro-Two-493711938-i-2-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDcwMDZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDJiL2g2Ni85OTkyNjI5NDUyODMwLmpwZ3wyMGI4ZGQ0MTU1MDUxNjQwY2MyNjZiMmViZTk4MDY1NWQ2MDNiZThlOWVjM2RlOGFlMzhjYWY3ZjY4MTMyMWNi",
+            "url": "https://www.reliancedigital.in/noise-air-buds-pro-two-with-active-noise-cancellation-10-mm-driver-up-to-25-hour-playtime-hybrid-active-noise-cancellation-ipx5-water-resistance-voice-assistant-snow-white/p/493711938"
         },
         {
             "id": 65,
@@ -1150,7 +1148,7 @@
                 "AI call nise cancellation"
             ],
             "category": "earphone",
-            "brand": "Oneplus",
+            "brand": "Oneplus_earphone",
             "image": "https://www.reliancedigital.in/medias/OnePlus-Bullets-Z2-Earphone-492913029-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NTEyOXxpbWFnZS9qcGVnfGltYWdlcy9oOTQvaGM2Lzk4NTc2ODk0MTk4MDYuanBnfGIyODZlNjc1YTc1ODIxOGE1ZmEzZDE4YWU1ZDFjYWViYjBlMGQzMDUxYzNjMDIwODAzN2JjNTE4ZmJmMWZlODM",
             "url": "https://www.reliancedigital.in/oneplus-bullets-z2-wireless-neckband-earphone-with-ip55-sweat-water-resistant-upto-30-hrs-playtime-ai-noise-cancellation-acoustic-red/p/492913029"
         },
@@ -1168,7 +1166,7 @@
                 "The carry case of the ergonomically designed Airdopes 131 has Type-C charging port as well for smooth charging."
             ],
             "category": "earphone",
-            "brand": "Boat",
+            "brand": "Boat_earphone",
             "image": "https://www.reliancedigital.in/medias/boAt-Airdopes-131-Airdopes-492912674-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzQ1M3xpbWFnZS9qcGVnfGltYWdlcy9oMDIvaDM2Lzk5MDQ0NzI5ODE1MzQuanBnfGYyM2FlMzg5YTRiMDhlMzFkM2Q2MjAxOGY1MzBlYmE2M2E3NzgyZmM3ZWZlNTE5MGNkYjNjYjI4M2FmNjJhOWY",
             "url": "https://www.reliancedigital.in/boat-airdopes-131-rtl-true-wireless-earbuds-with-with-upto-60-hours-playback-iwp-technology-bluetooth-v5-0-immersive-audio-instant-voice-assistant-and-type-c-charging-1year-warranty-ind-matte-black-tws-/p/492912674"
         },
@@ -1187,7 +1185,7 @@
                 "OK Google and hey SIRI Voice Assistant"
             ],
             "category": "earphone",
-            "brand": "Hammer",
+            "brand": "Hammer_earphone",
             "image": "https://www.reliancedigital.in/medias/Hammer-AIRFLOW2-TrueWireless-492579476-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MzI0MHxpbWFnZS9qcGVnfGltYWdlcy9oYTgvaGQ3Lzk3NjkzNTU1NzUzMjYuanBnfGIwYjQxNjVmMzNhNTAxMDBjNzlhY2Q0MTE0NWE2MzAyYmYxNTdiNzQwZDFiY2NmMDAwMTI5OGUwZGVkOTVkMWM",
             "url": "https://www.reliancedigital.in/hammer-airflow-2-0-truly-wireless-earbuds-with-ipx4-water-resistant-8-hrs-playtime-voice-assistant-multi-functional-touch-with-6-months-warranty-black/p/492579476"
         },
@@ -1206,7 +1204,7 @@
                 "10 meters Operating Distance"
             ],
             "category": "earphone",
-            "brand": "Boat",
+            "brand": "Boat_earphone",
             "image": "https://www.reliancedigital.in/medias/boAt-Airdopes-138-Airdopes-491973384-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzQ1M3xpbWFnZS9qcGVnfGltYWdlcy9oYmUvaDQ5Lzk5MDQ0ODI4Nzc0NzAuanBnfGJmNmNlNjk5OGVhYThmNWFjYTVjZTEwOTkwMzVhNGY5ZTdkMWE2MjU0MGQ1NmVjMTFiODEyNzRjMjZmMTUzMGQ",
             "url": "https://www.reliancedigital.in/boat-airdopes-138-true-wireless-earbuds-with-iwp-technology-upto-12-hours-playtime-bluetooth-v5-0-instant-voice-assistant-ios-android-compatible-type-c-charging-with-1-year-warranty-black-tws-/p/491973384"
         },
@@ -1230,7 +1228,7 @@
                 "Sound Master Equalizer"
             ],
             "category": "earphone",
-            "brand": "Oneplus",
+            "brand": "Oneplus_earphone",
             "image": "https://www.reliancedigital.in/medias/OnePlus-Nord-Buds-2-EP-493837165-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1Mjk0OXxpbWFnZS9qcGVnfGltYWdlcy9oNTEvaDM0Lzk5ODEwMzMyMTgwNzguanBnfDQwZGNmZGJiNTUyZDUwZjZmOWFlZDFmYTUyMzAzZWZmYzI2YmIwYzM1M2QxYWZhMjIzNjkyMjRhMzIyMDg5NDI",
             "url": "https://www.reliancedigital.in/oneplus-nord-buds-2-true-wireless-in-ear-earbuds-with-mic-upto-25db-anc-12-4mm-dynamic-titanium-drivers-playback-upto-36hr-case-4-mic-design-ip55-rating-fast-charging-thunder-grey-/p/493837165"
         },
@@ -1252,7 +1250,7 @@
                 "Up to 6 hours of listening time with a single charge"
             ],
             "category": "earphone",
-            "brand": "Apple",
+            "brand": "Apple_earphone",
             "image": "https://www.reliancedigital.in/medias/Apple-Airpods-Pro-493177748-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MjUwOXxpbWFnZS9qcGVnfGltYWdlcy9oZTAvaDExLzk4OTA3NTA4MjQ0NzguanBnfDBkOGExYzJhMmM2MzcyMTkwMGI0YWFhMWE0MDU2Y2YxOTRhY2UwMDQ5MWExMmM3Zjc1OWE0MDA2M2Y2ZmZmN2E",
             "url": "https://www.reliancedigital.in/apple-airpods-pro-2nd-gen-with-magsafe-charging-case-active-noise-cancellation-touch-control-ipx4-sweat-and-water-resistant-bluetooth-v5-3-upto-30-hrs-of-playtime-white/p/493177748"
         },
@@ -1270,7 +1268,7 @@
                 "Quad Mic Setup"
             ],
             "category": "earphone",
-            "brand": "Boat",
+            "brand": "Boat_earphone",
             "image": "https://www.reliancedigital.in/medias/boAt-Airdopes-138-Pro-True-Wireless-493179414-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MDIzNXxpbWFnZS9qcGVnfGltYWdlcy9oNjEvaDQxLzk5MDgwNTIzOTQwMTQuanBnfGUwYTQwNTNmNzQxNGIzMGMwMjE5YjRkNmQ3YzU1ODE3MzMyM2E0NjE4N2ZjYzdjZjRkZjJhNDQxYjAwY2VlZGM",
             "url": "https://www.reliancedigital.in/boat-airdopes-138-pro-true-wireless-earbuds-with-up-to-45-hours-playback-bluetooth-v5-3-ipx5-water-resistance-one-touch-voice-assistant-support-charging-indicator-enx-technology-black-tws-/p/493179414"
         },
@@ -1288,7 +1286,7 @@
                 "10min Charge gives 150min playtime"
             ],
             "category": "earphone",
-            "brand": "Noise",
+            "brand": "Noise_earphone",
             "image": "https://www.reliancedigital.in/medias/Noise-AUD-HDPHN-BUDSACE-True-Wireless-492912962-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2ODY5NHxpbWFnZS9qcGVnfGltYWdlcy9oMjIvaGE1Lzk4NDIwODI4NDA2MDYuanBnfDg3NzEyMzA1MjUzOWQ1ZTI2ZjZiZmE5MWY4YjZhYWYzYzg1Y2ZiODY4NDExOWEwZjg3MzA4MTM1ZTlkZTlmNjc",
             "url": "https://www.reliancedigital.in/noise-tws-buds-ace-wireless-in-ear-earbuds-with-24-hour-playback-time-hyper-sync-bluetooth-v5-3-charcoal-black/p/492912962"
         },
@@ -1306,7 +1304,7 @@
                 "165 mAh Battery Capacity"
             ],
             "category": "earphone",
-            "brand": "Ptron",
+            "brand": "Ptron_earphone",
             "image": "https://www.reliancedigital.in/medias/pTron-BASSSTRINGS-2A-PRO-STEREO-EARPHONE-492912894-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MDU1MnxpbWFnZS9qcGVnfGltYWdlcy9oZTIvaGY3Lzk4NDU4MjM5NjMxNjYuanBnfGE1ZWNjODgwM2M4OGY3MmUwMWRkNzk1M2E2OTkzZjY3NjExMzJjM2I5OTEwODliZmYzNmU1NzhiNmQ0ZTI0ZGY",
             "url": "https://www.reliancedigital.in/ptron-bassstring-2a-pro-wireless-bluetooth-neckband-black/p/492912894"
         },
@@ -1323,7 +1321,7 @@
                 "Bluetooth Neckband"
             ],
             "category": "earphone",
-            "brand": "Hammer",
+            "brand": "Hammer_earphone",
             "image": "https://www.reliancedigital.in/medias/Hammer-Sting-3-0-Earphone-492796748-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MjE0NHxpbWFnZS9qcGVnfGltYWdlcy9oZjcvaGYwLzk4MTU4MjE5NzU1ODIuanBnfDcxMjJkNWU1NjY1MmJiOThlOTRhOTMxMTdmMzZlMjlmNzY1MDg1MTVjNjEyY2UyMzJkZTc5MmYxNzNmMmU3YTc",
             "url": "https://www.reliancedigital.in/hammer-sting-3-bluetooth-wireless-neckband-earphone-with-upto-32hrs-total-playtime-ipx4-sweat-proof-and-deep-bass-magnetic-eartipsblack-red-with-1-year-warranty/p/492796748"
         },
@@ -1339,7 +1337,7 @@
                 "Rapid charge"
             ],
             "category": "earphone",
-            "brand": "Zebronics",
+            "brand": "Zebronics_earphone",
             "image": "https://www.reliancedigital.in/medias/Zebronics-Yoga-3-Bluetooth-Earphone-492796962-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MzE4NnxpbWFnZS9qcGVnfGltYWdlcy9oNjgvaDM3Lzk4MzIxMzY4Njc4NzAuanBnfGIwY2YyY2RjOWNhYTZjMTZkYTliOTU0OTNlYzFjMTFkZjExNGYxODRmODVlODE4NjVkYTg4ZjhkNjlmZjFmZDU",
             "url": "https://www.reliancedigital.in/zebronics-zeb-yoga-3-wireless-bluetooth-neckband-earphone-17-hrs-playtime-bluetooth-v5-0-rapid-charge-voice-assistant-support-for-android-ios-magnetic-earpiece-black/p/492796962"
         },
@@ -1357,7 +1355,7 @@
                 "Just 10 mins charge gives 6 hours playback"
             ],
             "category": "earphone",
-            "brand": "Ptron",
+            "brand": "Ptron_earphone",
             "image": "https://www.reliancedigital.in/medias/pTron-INTUNES-ULTIMA-EARPHONE-492796812-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2Mjg3OHxpbWFnZS9qcGVnfGltYWdlcy9oOGQvaDI5Lzk4MTc4ODcxNDYwMTQuanBnfGJmZGMyZGQyOTY1MTg0MDM3OWQ0ZGI4YmI4NGEyNmYyZWVjNzZmMWYyZDY1OWE5M2RmMWMyMTc2MDliMTY5NTA",
             "url": "https://www.reliancedigital.in/ptron-intunes-ultima-wireless-neckband-earphones-with-ipx4-water-resistant-18-hours-playtime-powerful-bass-passive-noise-cancellation-voice-assistant-hd-mic-type-c-fast-charging-black-blue/p/492796812"
         },
@@ -1377,7 +1375,7 @@
                 "Compact 300mAh Charging Case with Type-C Charging"
             ],
             "category": "earphone",
-            "brand": "Ptron",
+            "brand": "Ptron_earphone",
             "image": "https://www.reliancedigital.in/medias/pTron-Basspods-P181-Bluetooth-Earphones-492796966-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODc0NjN8aW1hZ2UvanBlZ3xpbWFnZXMvaGQ3L2g2Mi85ODI1ODk0MzAxNzI2LmpwZ3xhZjM2YTcwMjBlZTFlZjQzMzYzMTY4N2Y1MjRjNWU0OWFhNzJmNDBiMTk1Y2U4NmUwNmUwZTllMDA0MWMxMGVi",
             "url": "https://www.reliancedigital.in/ptron-basspods-p181-bluetooth-5-1-true-wireless-headphones-32hrs-total-playtime-passive-noise-cancellation-immersive-stereo-sound-touch-controls-voice-assistance-type-c-fast-charging-ipx4-white-tws-/p/492796966"
         },
@@ -1397,7 +1395,7 @@
                 "Full Music & Call Controls"
             ],
             "category": "earphone",
-            "brand": "Ptron",
+            "brand": "Ptron_earphone",
             "image": "https://www.reliancedigital.in/medias/pTron-TWSBasspods882-HeadphoneandHeadset-492338488-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3ODgyM3xpbWFnZS9qcGVnfGltYWdlcy9oNDAvaDBkLzk1OTY1NzM0ODMwMzguanBnfDY5ZWYwZWFmNDNkZTYyMGZhNDE4YWYwODM0OGM5MDcyNDM5MGRlN2RlNTUyZGE0NGEzNmIwMmJlMDdjMGVkNzQ",
             "url": "https://www.reliancedigital.in/ptron-basspods-882-bluetooth-5-1-wireless-headphones-tws-with-deep-bass-audio-12hrs-total-playtime-hi-fi-stereo-sound-with-deep-bass-ergonomic-secure-fit-ipx4-voice-assistance-black-/p/492338488"
         },
@@ -1416,7 +1414,7 @@
                 "Magnetic Ear Buds, Hands-Free Calling with 3 Button Remote"
             ],
             "category": "earphone",
-            "brand": "JBL",
+            "brand": "JBL_earphone",
             "image": "https://www.reliancedigital.in/medias/Infinity-BT-EP-GLIDE-N100-Headphone-492403953-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MTA2OXxpbWFnZS9qcGVnfGltYWdlcy9oNDAvaDA3Lzk2NDYyMTQzMTYwNjIuanBnfDIyNGM2MGI0MWZkY2YxYTViYWRmM2M3Y2FjYTYxMmZhMDRjMTFmM2Y0MmIwMDQyOTk3YTU3ZjZiZWMwMzRlZDc",
             "url": "https://www.reliancedigital.in/infinity-jbl-glide-n100-wireless-neckband-with-deep-bass-dual-eq-bluetooth-v5-0-ipx5-sweatproof-upto-7-hrs-of-playtime-voice-assistant-integration-charging-indicator-red-/p/492403953"
         },
@@ -1435,7 +1433,7 @@
                 "IPX4 Water Resistance"
             ],
             "category": "earphone",
-            "brand": "Ptron",
+            "brand": "Ptron_earphone",
             "image": "https://www.reliancedigital.in/medias/pTron-Bassbuds-Fute-Headphone-492912954-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNjk0NDR8aW1hZ2UvanBlZ3xpbWFnZXMvaGQwL2gwNi85ODQyMDQwNjAyNjU0LmpwZ3wxNjQ4ZWI0NDE0OWI0NWM0N2U0OGE3MmE3NzdhZTZjNGU5OWQzNTQ3NTVkMzMzODllMjQwOTdjYjg0MTAyZmUz",
             "url": "https://www.reliancedigital.in/ptron-bassbuds-fute-tws-earbuds-passive-noise-cancellation-25-hrs-playtime-bluetooth-5-1-type--c-charging-ipx4-water-resistance-low-latency-white/p/492912954"
         },
@@ -1453,7 +1451,7 @@
                 "Cools at 54 degree Celsius"
             ],
             "category": "air_conditioner",
-            "brand": "Daikin",
+            "brand": "Daikin_ac",
             "image": "https://www.reliancedigital.in/medias/Daikin-FTKM50U-Air-Conditioners-581026892-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDMwNjR8aW1hZ2UvanBlZ3xpbWFnZXMvaDI2L2hiNC85ODA0MDU1NzQwNDQ2LmpwZ3xlYTZmZDJiMTllODM0NzQwODU0YmFlNGRhMTEyM2VhMmYwYTg0YWVlZGQ2YzY2ZDgwODI5YjBjYmJiMzVhMjA1",
             "url": "https://www.reliancedigital.in/daikin-1-5-ton-5-star-inverter-split-ac-ftkm50u-100-percent-copper-pm-2-5-air-purification-filter-high-iseer-rating-3d-airflow-dew-clean-technology-2023-/p/581026892"
         },
@@ -1471,7 +1469,7 @@
                 "Automatic Error Code Display"
             ],
             "category": "air_conditioner",
-            "brand": "Daikin",
+            "brand": "Daikin_ac",
             "image": "https://www.reliancedigital.in/medias/Daikin-ATKL50U-Air-Conditioners-581027040-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNjkzMnxpbWFnZS9qcGVnfGltYWdlcy9oY2QvaDBmLzk5NzQwODUyNTUxOTguanBnfDE1MGI4M2ExOTFkYzc5ODk1OGRjZTUyYzBiMjEyMzViNTk1NGNmMWMzZDNhMDQ2ZmE4NmJmZmEyMDRkZGFkYjE",
             "url": "https://www.reliancedigital.in/medias/Daikin-ATKL50U-Air-Conditioners-581027040-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNjkzMnxpbWFnZS9qcGVnfGltYWdlcy9oY2QvaDBmLzk5NzQwODUyNTUxOTguanBnfDE1MGI4M2ExOTFkYzc5ODk1OGRjZTUyYzBiMjEyMzViNTk1NGNmMWMzZDNhMDQ2ZmE4NmJmZmEyMDRkZGFkYjE"
         },
@@ -1489,7 +1487,7 @@
                 "Automatic Error Code Display"
             ],
             "category": "air_conditioner",
-            "brand": "Daikin",
+            "brand": "Daikin_ac",
             "image": "https://www.reliancedigital.in/medias/Daikin-FTKL71U-Air-Conditioners-581027043-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMDQxNXxpbWFnZS9qcGVnfGltYWdlcy9oZmQvaDczLzk5NzQwNDQyMjk2NjIuanBnfDFmMTUxYWJjMDQ2MmZjOTdkMjc4NTkyNDk2MGY1ZDJiMWQzOTY4YThlODM0Y2E3YTY0ZDU4ZTA4MGI2MDkwMDc",
             "url": "https://www.reliancedigital.in/daikin-2-02-ton-3-star-ftkl71u-inverter-split-ac-100-percent-copper-pm-2-5-air-purifying-filter-3d-airflow-4-way-swing-52-feet-air-throw-2023-/p/581027043"
         },
@@ -1510,7 +1508,7 @@
                 "Turbo cool"
             ],
             "category": "air_conditioner",
-            "brand": "Sansui",
+            "brand": "Sansui_ac",
             "image": "https://www.reliancedigital.in/medias/Sansui-JSE183SI2301-Air-Conditioner-581110268-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNTcyM3xpbWFnZS9qcGVnfGltYWdlcy9oODkvaGU2Lzk5NTI2NTk5NjM5MzQuanBnfDU2MDAyMzg0ZjMxMDc3ZTg2MmVlYmY2NjZmZjgwMDBkZTM4YWQ0ZTIwYWMwNDM1MDFkYTQwNGQ0ZjNmM2IxMzI",
             "url": "https://www.reliancedigital.in/sansui-1-5-ton-3-star-4-in-1-convertible-inverter-split-ac-jse183si2301-100-percent-copper-high-cooling-capacity-17500-btu-high-star-rating-3-95-ecofriendly-r32-refrigerant-2023-launch-/p/581110268"
         },
@@ -1531,7 +1529,7 @@
                 "Turbo cool"
             ],
             "category": "air_conditioner",
-            "brand": "Sansui",
+            "brand": "Sansui_ac",
             "image": "https://www.reliancedigital.in/medias/Sansui-JSE185SI2301-Air-Conditioners-581110270-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzODY0N3xpbWFnZS9qcGVnfGltYWdlcy9oMTIvaDNjLzk5Njc2OTQyODI3ODIuanBnfDQ5MzEyNTYxN2Q5YmMwOWIwMGFlZTU1YjUyN2EwOTYzNDU3M2NkZTYxNzczMTVjNjA5OGM3MDIzMjMxNDdlZDk",
             "url": "https://www.reliancedigital.in/sansui-1-5-ton-5-star-4-in-1-convertible-inverter-split-ac-jse185si2301-100-percent-copper-high-star-rating-5-10-high-cooling-capacity-17400-btu-ecofriendly-r32-refrigerant-2023-launch-/p/581110270"
         },
@@ -1548,7 +1546,7 @@
                 "100 Percent Copper Tubes"
             ],
             "category": "air_conditioner",
-            "brand": "LG",
+            "brand": "LG_ac",
             "image": "https://www.reliancedigital.in/medias/LG-RS-Q18DNXE-Air-Conditionerr-581110278-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNzY2OHxpbWFnZS9qcGVnfGltYWdlcy9oZTgvaDdiLzk5ODM3MTI2MjQ2NzAuanBnfGY5NzRjZmI4MWRiMzUzZWYyMzZjNTAxNDZhMjAyYTBlN2Q5ZWVjYjFmZmZkYzk4YzgxZmVmYTU5YmVlZWZkM2Y",
             "url": "https://www.reliancedigital.in/lg-1-5-ton-3-star-6-in-1-convertible-inverter-split-ac-rs-q18dnxe-100-percent-copper-ai-dual-inverter-compressor-anti-corrosive-ocean-black-protection-2023-launch-/p/581110278"
         },
@@ -1565,7 +1563,7 @@
                 "100 Percent Copper Tubes"
             ],
             "category": "air_conditioner",
-            "brand": "LG",
+            "brand": "LG_ac",
             "image": "https://www.reliancedigital.in/medias/LG-RS-Q19CNZE-Air-Conditionerr-581110279-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNzY2OHxpbWFnZS9qcGVnfGltYWdlcy9oNTIvaDJjLzk5ODM3MTI5NTIzNTAuanBnfDNjMjRkOWFmYWZmMjE2Yzc1OTkzZTliYTViYzk5MGMwN2IzYmNhMDI3OGY5ZGEwOTNjYzAxNjE5YzZlMjYxZDI",
             "url": "https://www.reliancedigital.in/lg-1-5-ton-5-star-rs-q19cnze-inverter-split-ac-white/p/581110279"
         },
@@ -1582,7 +1580,7 @@
                 "100 Percent Copper Tubes"
             ],
             "category": "air_conditioner",
-            "brand": "LG",
+            "brand": "LG_ac",
             "image": "https://www.reliancedigital.in/medias/LG-RS-Q24ENXE-Air-Conditionerr-581110281-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNzY2OHxpbWFnZS9qcGVnfGltYWdlcy9oN2MvaGNkLzk5ODM3MjkwMDg2NzAuanBnfGE4ZjczMTNlZGI2NjQ5ZDY4ZTZkNThhN2Y0ZDhjMDRiZjJmMjdmZGY4MTBmMzJiZGEwZThhNWZkNDMwZjM0ZmQ",
             "url": "https://www.reliancedigital.in/lg-2-ton-3-star-6-in-1-convertible-inverter-split-ac-rs-q24enxe-100-percent-copper-ai-dual-inverter-compressor-4-way-swing-anti-corrosive-ocean-black-protection-2023-launch-/p/581110281"
         },
@@ -1598,7 +1596,7 @@
                 "Golden Fin Evaporator"
             ],
             "category": "air_conditioner",
-            "brand": "Lloyd",
+            "brand": "Lloyd_ac",
             "image": "https://www.reliancedigital.in/medias/LLOYD-3SINV-GLS12I3FWBBV-AC-581027119-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMzIyMzB8aW1hZ2UvcG5nfGltYWdlcy9oNjQvaGM4Lzk5NjcxMDk3MDE2NjIucG5nfDcyNWU3ZWQwMDE0Mjk3NWQ1YTk3OWJjM2QyZGE5ODY2MGVhZjJkNTdlMjkxYjBlNmIwNTkxMmM0Zjg2MDkxMTU",
             "url": "https://www.reliancedigital.in/lloyd-1-ton-3-star-5-in-1-convertible-inverter-split-ac-gls12i3fwbbv-pm-2-5-filter-4-way-swing-cools-at-52-degree-c-100-percent-copper-wifi-ready-turbo-cool-golden-fin-evaporator-2023-launch-/p/581027119"
         },
@@ -1614,7 +1612,7 @@
                 "Golden Fin Evaporator"
             ],
             "category": "air_conditioner",
-            "brand": "Lloyd",
+            "brand": "Lloyd_ac",
             "image": "https://www.reliancedigital.in/medias/LLOYD-15T-3SINV-GLS18I3FWBBV-SAC-581027120-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMzIyMzB8aW1hZ2UvcG5nfGltYWdlcy9oZDEvaGZkLzk5NjcxMTAwMjkzNDIucG5nfDZiZDIxMGZlMmFjZjMxZTQ1ZjhjMTk5YjJkMDc3ZDJmMGZlNTE2YmM2MDM0N2Q2NGM2YzMyZTIzYzlhM2U1ZDM",
             "url": "https://www.reliancedigital.in/lloyd-1-5-ton-3-star-5-in-1-convertible-inverter-split-ac-gls18i3fwbbv-3lwbba-pm-2-5-filter-4-way-swing-cools-at-52-degreec-100-per-copper-wifi-ready-turbo-cool-golden-fin-evaporator-2023-launch-/p/581027120"
         },
@@ -1630,7 +1628,7 @@
                 "Golden Fin Evaporator"
             ],
             "category": "air_conditioner",
-            "brand": "Lloyd",
+            "brand": "Lloyd_ac",
             "image": "https://www.reliancedigital.in/medias/Lloyd-GLS24I3FWSEV-Airr-Conditioners-581027121-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2Nzg2OHxpbWFnZS9qcGVnfGltYWdlcy9oZDQvaGY3Lzk5NzQxNzA0ODQ3NjYuanBnfGU1YzBkNTYxODUxMjU4ZjcwZTFhNDU4ZjI3Yzc1NmE1MGJkODQ0MGJkYTI4OGVhYWIyNTM4ODllZmM3Njc5NmI",
             "url": "https://www.reliancedigital.in/lloyd-2-ton-3-star-5-in-1-convertible-inverter-split-ac-gls24i3fwsev-pm-2-5-filter-4-way-swing-cools-at-52-degree-c-100-percent-copper-wifi-ready-turbo-cool-golden-fin-evaporator-2023-launch-/p/581027121"
         },
@@ -1646,7 +1644,7 @@
                 "Golden Fin Evaporator"
             ],
             "category": "air_conditioner",
-            "brand": "Lloyd",
+            "brand": "Lloyd_ac",
             "image": "https://www.reliancedigital.in/medias/Lloyd-GLS18I5FWGEV-Airr-Conditioners-581027122-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NjA2NHxpbWFnZS9qcGVnfGltYWdlcy9oM2YvaDFiLzk5NzQxNjYyMjQ5MjYuanBnfDVkMDE5MWVkZmUzMWNmMmFiOTM2M2JmZTRiNzVkZGYwMThiM2NkN2I5NmE4YjY5YjdmMDQ5YTNiOThiMGI4YjU",
             "url": "https://www.reliancedigital.in/lloyd-1-5-ton-5-star-5-in-1-convertible-inverter-split-ac-gls18i5fwgev-pm-2-5-filter-4-way-swing-cools-at-52-degree-c-100-percent-copper-wifi-ready-turbo-cool-golden-fin-evaporator-2023-launch-/p/581027122"
         },
@@ -1662,7 +1660,7 @@
                 "Brushless DC Motor (BLDC)"
             ],
             "category": "air_conditioner",
-            "brand": "Blue Star",
+            "brand": "Blue Star_ac",
             "image": "https://www.reliancedigital.in/medias/BLUESTAR-IC318MKU-Split-Air-conditioner-581110330-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3ODAyMHxpbWFnZS9qcGVnfGltYWdlcy9oMjgvaGFlLzk5NjUzNTg1NDY5NzQuanBnfDZkZGM3ZTMxZDgyNWY5OWE2ZmU5YTllNzMzMGE0MTcyZDZhNGQ1NjMxNmY3NGFjNmU4ZWI0MTE4YTkxMzY3ZmY",
             "url": "https://www.reliancedigital.in/blue-star-1-5-ton-3-star-5-in-1-convertible-inverter-split-ac-ic-id318mku-100-percent-copper-cooling-mode-turbo-mode-turbo-cool-comfort-sleep-2023-launch-/p/581110330"
         },
@@ -1680,7 +1678,7 @@
                 "Dual Temp Display"
             ],
             "category": "air_conditioner",
-            "brand": "Voltas",
+            "brand": "Voltas_ac",
             "image": "https://www.reliancedigital.in/medias/Voltas-183-VECTRA-MAGNUM-Split-Air-Conditioner-581110348-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyOTU1N3xpbWFnZS9qcGVnfGltYWdlcy9oZWEvaGQ2Lzk5Njg4Mzk0OTE2MTQuanBnfDg4ODcwNzdjMzBkYmNlNzEwNTczZDA0NDY3ZDhhZmRhOTE0NjM5MTRiMDIzNjcwN2ExZTFmMGIyZDk0MWRlZWU",
             "url": "https://www.reliancedigital.in/voltas-1-5-ton-3-star-4-in-1-convertible-inverter-split-ac-183v-vectra-magnum-100-percent-copper-turbo-tech-dual-temp-display-anti-fungal-2023-launch-/p/581110348"
         },
@@ -1698,7 +1696,7 @@
                 "Dual Temp Display"
             ],
             "category": "air_conditioner",
-            "brand": "Voltas",
+            "brand": "Voltas_ac",
             "image": "https://www.reliancedigital.in/medias/Voltas-VOL185VVEC-MAG-Split-Air-Conditioner-581110351-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyOTU1MXxpbWFnZS9qcGVnfGltYWdlcy9oZjIvaGI1Lzk5Njg4NDgwMTEyOTQuanBnfDJkMmNkM2VlOGU1OGI4MTAzNGEzOTg5M2ZmYWQ1Y2I5M2I2ZjEyMzBlMGZkN2VlNjQ5ZWE4YTIzNDA3ZWUyODU",
             "url": "https://www.reliancedigital.in/voltas-1-5-ton-5-star-4-in-1-convertible-inverter-split-ac-185v-vectra-magnum-turbo-tech-dual-temp-display-anti-fungal-100-percent-copper-2023-launch-/p/581110351"
         },
@@ -1720,7 +1718,7 @@
                 "Eco Friendly Gas"
             ],
             "category": "air_conditioner",
-            "brand": "Hisense",
+            "brand": "Hisense_ac",
             "image": "https://www.reliancedigital.in/medias/Hisense-SAC-15T-3SINV-ATC503HIB-581110345-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjg0NTl8aW1hZ2UvanBlZ3xpbWFnZXMvaDUyL2hmMC8xMDAxMjE5NzY1MDQ2Mi5qcGd8YWU5YWRmOGI1Mjc0NjBkYWZjYTNlNjBkOWU2YTk1MWRjZGRkYzA1ZGQwODk2Njk3NGFjYTdmMzM4NDJjOWMxZQ",
             "url": "https://www.reliancedigital.in/hisense-1-5-ton-3-star-convertible-inverter-split-ac-atc503hib-5-in-1-convertible-100-copper-auto-clean-pm-2-5-filter-blue-fins-2023-launch-/p/581110345"
         },
@@ -1736,7 +1734,7 @@
                 "Wi-Fi Control"
             ],
             "category": "air_conditioner",
-            "brand": "Hisense",
+            "brand": "Hisense_ac",
             "image": "https://www.reliancedigital.in/medias/Hisense-ATCW515HJP-Inverter-Split-AC-581110545-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyOTU5NHxpbWFnZS9qcGVnfGltYWdlcy9oNzcvaGMwLzEwMDEyOTY2MTkxMTM0LmpwZ3w0YTgyNGJkOWIwZjU0Yjc1OTQ2N2JhMGEyZTc5MzA3YmUxNzc2Y2U3ZDM4OTcxMWNmZGQ4ZmRkNTg1NzBlNmJm",
             "url": "https://www.reliancedigital.in/hisense-1-5-ton-5-star-convertible-inverter-split-ac-atcw515hjp-5-in-1-convertible-pm-2-5-filter-100-per-cent-copper-auto-clean-2023-launch-/p/581110545"
         },
@@ -1753,7 +1751,7 @@
                 "HD Filter, Filter clean indicator"
             ],
             "category": "air_conditioner",
-            "brand": "LG",
+            "brand": "LG_ac",
             "image": "https://www.reliancedigital.in/medias/LG-PW-Q18WUXA-Air-Conditioner-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2NDk4M3xpbWFnZS9qcGVnfGltYWdlcy9oYzYvaDE1Lzk3NzU4NzA1MDkwODYuanBnfGM0NDMzYTNlNjg0MDhiMWU0YTY4MzcyYjIzZGRhNzg0MGQ0NmRmMzYxNGYwNTc2MDhiODA5OTBiNmMzNDllM2M",
             "url": "https://www.reliancedigital.in/lg-1-5-ton-3-star-inverter-window-ac-pw-q18wuxa-copper-condenser-top-air-discharge-2022-launch-/p/492664428"
         },
@@ -1769,27 +1767,26 @@
                 "LED Display"
             ],
             "category": "air_conditioner",
-            "brand": "Lloyd",
+            "brand": "Lloyd_ac",
             "image": "https://www.reliancedigital.in/medias/Lloyd-GLW18C3YWSEW-Air-Conditioners-493627373-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTgwODF8aW1hZ2UvanBlZ3xpbWFnZXMvaDU2L2gzNC85OTc0MTY2NTUyNjA2LmpwZ3xmZTM3NTExYjU1OTJhY2UxMThjMjBlMTUyODI5MjNkYzAxMDkyM2FlMDQ2ZDdkN2FkOTI5MmFlNWI4MTk1NjY2",
             "url": "https://www.reliancedigital.in/lloyd-1-5-ton-3-star-window-ac-glw18c3ywsew-cools-at-48-degree-c-100-percent-copper-blue-fin-coils-2023-launch-/p/493627373"
         },
         {
             "id": 100,
-            "name": "Godrej Turbo Mode 2023 Model 1.5 Ton 3 Star Window with Anti Corrosive Blue Fin AC - White  (WFC 18UTC3-WWA, Copper Condenser)",
-            "offer_price": 26248,
-            "actual_price": 41990,
+            "name": "Hisense 1.5 Ton 5 Star Convertible Inverter Split AC, ATCW515HJP (5 in 1 Convertible, PM 2.5 Filter, 100 per cent Copper, Auto Clean, 2023 Launch)",
+            "offer_price": 36990,
+            "actual_price": 59490,
             "key_features": [
-                "1.5 Ton",
-                "3 Star BEE Rating 2022 : For energy savings upto 15% (compared to Non-Inverter 1 Star)",
-                "Auto Restart: No need to manually reset Copper : Energy efficient, best in class cooling with easy maintenance.the settings post power-cut"
+                "Blue Fin Condenser",
+                "10 meter Long Air Throw",
+                "Quick Chill",
+                "Wi-Fi Control"
             ],
             "category": "air_conditioner",
-            "brand": "Godrej",
-            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/air-conditioner-new/y/v/r/-original-imagzhtphsxgvmbr.jpeg?q=70",
-            "url": "https://www.flipkart.com/godrej-turbo-mode-2023-model-1-5-ton-3-star-window-anti-corrosive-blue-fin-ac-white/p/itm33ce739b99892?pid=ACNGH3YJUYZHJEH7&lid=LSTACNGH3YJUYZHJEH7ZLVGWT&marketplace=FLIPKART&q=air+conditioners+window+ac&store=j9e%2Fabm%2Fc54&spotlightTagId=FkPickId_j9e%2Fabm%2Fc54&srno=s_1_2&otracker=AS_QueryStore_OrganicAutoSuggest_1_21_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_21_na_na_ps&fm=search-autosuggest&iid=3afc5fd6-53d2-4865-a254-cad209dcc2ce.ACNGH3YJUYZHJEH7.SEARCH&ppt=sp&ppn=sp&ssid=t0ytwkjxyo0000001695751318552&qH=f2d17558a481bbf8"
+            "brand": "Hisense_ac",
+            "image": "https://www.reliancedigital.in/medias/Hisense-ATCW515HJP-Inverter-Split-AC-581110545-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyOTU5NHxpbWFnZS9qcGVnfGltYWdlcy9oNzcvaGMwLzEwMDEyOTY2MTkxMTM0LmpwZ3w0YTgyNGJkOWIwZjU0Yjc1OTQ2N2JhMGEyZTc5MzA3YmUxNzc2Y2U3ZDM4OTcxMWNmZGQ4ZmRkNTg1NzBlNmJm",
+            "url": "https://www.reliancedigital.in/hisense-1-5-ton-5-star-convertible-inverter-split-ac-atcw515hjp-5-in-1-convertible-pm-2-5-filter-100-per-cent-copper-auto-clean-2023-launch-/p/581110545"
         }
     ],
-    "users":[
-        
-    ]
+    "users": []
 }

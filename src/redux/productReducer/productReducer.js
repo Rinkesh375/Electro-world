@@ -16,9 +16,9 @@ const initialState = {
 
 const productReducer = (state = initialState, { type, payload }) => {
     switch (type) {
-        case SEARCH_PRODUCT_LOADING: return { ...state, isLoading: true };
+        case SEARCH_PRODUCT_LOADING: return { ...state, isLoading: true,isError:false };
         case SEARCH_PRODUCT_ERROR: return { ...state, isLoading: false,isError:true };
-        case SEARCH_PRODUCT_SUCCESS: return { ...state, isLoading: false,productArray:[...payload] };
+        case SEARCH_PRODUCT_SUCCESS: return { ...state, isLoading: false,productArray:[...payload.data],totalPages:Math.ceil(+payload.headers['x-total-count']/12) };
         case SEARCH_PRODUCT_INPUT_TEXT: return { ...state, isLoading: false,searchText:payload };
         default: return { ...state };
     }
