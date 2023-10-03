@@ -1,9 +1,11 @@
 import React from 'react';
+import { useParams } from 'react-router-dom';
 
 const SingleProductPage = () => {
+  const {id} = useParams()
   return (
     <div>
-      SingleProduct page
+      {`ID: ${id}`}
     </div>
   );
 }

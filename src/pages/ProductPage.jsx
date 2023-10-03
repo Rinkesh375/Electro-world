@@ -1,8 +1,40 @@
-import React from 'react'
+import React, {  useState } from 'react'
+import { shallowEqual, useSelector} from 'react-redux';
+import { Box, Grid, GridItem,Heading } from '@chakra-ui/react';
+import ProductCard from '../components/ProductPageComponents/ProductCard';
+import Pagination from '../components/ProductPageComponents/Pagination';
+import SideBarFilter from '../components/ProductPageComponents/SideBarFilter';
+import LoadingSpinner from '../components/ProductPageComponents/LoadingSpinner';
 
 const ProductPage = () => {
+  const {isLoading, productArray } = useSelector(store => store.productReducer);
+  const [page, setPage] = useState(1)
+  const handleUpdatePage = (value) => {
+    setPage(pre => pre + value)
+  }
+
+
   return (
-<></>
+        <>
+        
+
+<Grid templateColumns='1fr 4fr'>
+      <GridItem> <SideBarFilter page={page} /></GridItem>
+        {isLoading?<LoadingSpinner/>: productArray.length?<>
+      <GridItem> <Grid templateColumns='repeat(4, 1fr)' gap="1rem" m="2rem 1rem">
+
+        {
+          productArray.map(ele => <ProductCard key={ele.id} {...ele} />)
+        }
+
+      </Grid></GridItem>
+
+      </>:<Heading mt="1rem" textAlign="center" as='h2' size='xl'>No Product Found</Heading>} 
+
+
+    </Grid>
+    <Pagination page={page} handleUpdatePage={handleUpdatePage} />
+        </>
   )
 }
 

@@ -4,9 +4,10 @@ import url from "../../url";
 
 const getProduct = (dispatch,obj)=> async()=>{
     dispatch({type:SEARCH_PRODUCT_LOADING})
-try {
-    const req = await axios.get(url,obj)
-    dispatch({type:SEARCH_PRODUCT_SUCCESS,payload:req.data})
+    try {
+    const res = await axios.get(url,obj)
+
+    dispatch({type:SEARCH_PRODUCT_SUCCESS,payload:res})
 } catch (error) {
     dispatch({type:SEARCH_PRODUCT_ERROR})
 }
