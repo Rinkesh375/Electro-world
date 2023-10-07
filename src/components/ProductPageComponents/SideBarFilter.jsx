@@ -38,7 +38,7 @@ const SideBarFilter = ({ page }) => {
 
     }
     useEffect(() => {
-       console.log(++count,"count")
+     
         const urlQuery = { brand }
         minPrice && maxPrice && (urlQuery.minPrice = minPrice);
         minPrice && maxPrice && (urlQuery.maxPricePrice = maxPrice);
