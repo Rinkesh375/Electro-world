@@ -18,7 +18,7 @@ const ProductPage = () => {
         <>
         
 
-<Grid templateColumns='1fr 4fr'>
+<Grid templateColumns='1fr 4fr' >
       <GridItem> <SideBarFilter page={page} /></GridItem>
         {isLoading?<LoadingSpinner/>: productArray.length?<>
       <GridItem> <Grid templateColumns='repeat(4, 1fr)' gap="1rem" m="2rem 1rem">
