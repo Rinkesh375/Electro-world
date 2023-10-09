@@ -8,7 +8,7 @@ const {connection} = require("./dbConnect/dbConnection")
 require("dotenv").config();
 const port = process.env.PORT || 4000
 
-
+//Rinkesh 1
 app.use(express.json());
 app.use(cors());
 
