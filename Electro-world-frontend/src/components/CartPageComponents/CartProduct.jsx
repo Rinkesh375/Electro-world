@@ -13,7 +13,7 @@ const CartProduct = () => {
           dispatch(updateAddCartProduct(dispatch,temp))
         
 }
-
+//console.log("done")
 const quantityUpdateHandler = (id,value)=>{
     let temp = [...userAddToCart];
     temp = temp.map(ele=>ele.id === id?{...ele,qty:ele.qty+value}:ele)
