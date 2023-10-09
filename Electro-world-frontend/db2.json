@@ -1797,6 +1797,64 @@
       "orderHistory": [],
       "addToCart": [
         {
+          "id": 23,
+          "name": "Dell Vostro 5620 Laptop (12th Gen Intel Core i5-1240P/8 GB/512 GB SSD/Windows 11 Home/MSO/FHD), 40.64 cm (16 Inch)",
+          "offer_price": 66999,
+          "actual_price": 77999,
+          "key_features": [
+            "Processor: 12th Gen Intel Core i5-1240P",
+            "RAM: 8 GB",
+            "Internal Storage: 512",
+            "Storage Type: SSD",
+            "Operating System: Windows 11",
+            "Microsoft office included: Yes"
+          ],
+          "category": "laptop",
+          "brand": "Dell_Laptop",
+          "image": "https://www.reliancedigital.in/medias/Dell-D552268WIN9S-Laptop-493177290-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDMxNzh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU4L2gzYi85ODkyMjA2MzEzNTAyLmpwZ3w1OWQyNWJmMDhkODYxZjE5OWQyNzVkY2RhNzVhYWM3ODdlMmU0Yjc0MDkyMjFkNTAyNmRmZjgzN2I1NDYzNmY1",
+          "url": "https://www.reliancedigital.in/dell-vostro-5620-laptop-12th-gen-intel-core-i5-1240p-8-gb-512-gb-ssd-windows-11-home-mso-fhd-40-64-cm-16-inch-/p/493177290",
+          "qty": 2
+        },
+        {
+          "id": 43,
+          "name": "ONEPLUS 108 cm (43 inch) Full HD Smart LED TV, 43Y1",
+          "offer_price": 24999,
+          "actual_price": 29990,
+          "key_features": [
+            "additional 1 year Warranty on panel provided by the manufacturer",
+            "Supported Apps: YouTube, Netflix, Prime Video, Hotstar",
+            "Operating System: Android TV (Google Assistant)",
+            "Resolution: Full HD (1920 x 1080)",
+            "Connectivity: 2 HDMI ports, 2 USB ports",
+            "Sound: 20 Watts, Dolby Audio",
+            "Refresh Rate: 60 Hz"
+          ],
+          "category": "television",
+          "brand": "Oneplus_Television",
+          "image": "https://www.reliancedigital.in/medias/ONEPLUS-43Y1-TV-491895011-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODYzOTV8aW1hZ2UvanBlZ3xpbWFnZXMvaGFlL2gzOC85ODEwMDU4Mzc5Mjk0LmpwZ3wwYWE2Y2UzOTE3MzU3ODI0ZjJmZjhkZGVmZTVkNzc3ODlmNzIwMjQ3N2U0ZWViMzFmOGYxMmYxZWNiZGM2NGUx",
+          "url": "https://www.reliancedigital.in/oneplus-108-cm-43-inch-full-hd-smart-led-tv-43y1/p/491895011",
+          "qty": 1
+        },
+        {
+          "id": 63,
+          "name": "boAt Airdopes Hype True wireless with Total Playtime 100 hours, Quad Mics with ENx Technology, 13mm drivers boAt Signature Sound, BEAST Mode, IPX5 (Aero Blue,TWS in Ear buds)",
+          "offer_price": 1499,
+          "actual_price": 1799,
+          "key_features": [
+            "13mm Drivers",
+            "Quad Mics with ENx Tech",
+            "Total Playtime: 100 hour",
+            "IWP Technology",
+            "IPX5 Sweat Resistance",
+            "BEAST Mode 50ms"
+          ],
+          "category": "earphone",
+          "brand": "Boat_earphone",
+          "image": "https://www.reliancedigital.in/medias/boAt-Airdopes-Hype-493911451-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NjA3NHxpbWFnZS9qcGVnfGltYWdlcy9oYWQvaDAxLzEwMDE5ODgxMDU4MzM0LmpwZ3wwZjRkMGVkNWM1MjZjZTM3OTRkMDQzMDhkNTFjYmEzMDVhMjIzZGE4MGVlMmZkZGNjM2ZmYjFhMmNiNDY2NzRk",
+          "url": "https://www.reliancedigital.in/boat-airdopes-hype-true-wireless-with-total-playtime-100-hours-quad-mics-with-enx-technology-13mm-drivers-boat-signature-sound-beast-mode-ipx5-aero-blue-tws-in-ear-buds-/p/493911451",
+          "qty": 1
+        },
+        {
           "id": 84,
           "name": "Sansui 1.5 Ton 3 star 4 in 1 convertible inverter split AC, JSE183SI2301 (100 Percent copper, High cooling capacity 17500 BTU, High star rating 3.95, ecofriendly R32 refrigerant, 2023 Launch)",
           "offer_price": 32990,
@@ -1815,9 +1873,36 @@
           "category": "air_conditioner",
           "brand": "Sansui_ac",
           "image": "https://www.reliancedigital.in/medias/Sansui-JSE183SI2301-Air-Conditioner-581110268-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNTcyM3xpbWFnZS9qcGVnfGltYWdlcy9oODkvaGU2Lzk5NTI2NTk5NjM5MzQuanBnfDU2MDAyMzg0ZjMxMDc3ZTg2MmVlYmY2NjZmZjgwMDBkZTM4YWQ0ZTIwYWMwNDM1MDFkYTQwNGQ0ZjNmM2IxMzI",
-          "url": "https://www.reliancedigital.in/sansui-1-5-ton-3-star-4-in-1-convertible-inverter-split-ac-jse183si2301-100-percent-copper-high-cooling-capacity-17500-btu-high-star-rating-3-95-ecofriendly-r32-refrigerant-2023-launch-/p/581110268"
+          "url": "https://www.reliancedigital.in/sansui-1-5-ton-3-star-4-in-1-convertible-inverter-split-ac-jse183si2301-100-percent-copper-high-cooling-capacity-17500-btu-high-star-rating-3-95-ecofriendly-r32-refrigerant-2023-launch-/p/581110268",
+          "qty": 1
+        },
+        {
+          "id": 32,
+          "name": "Asus NK321WS Vivobook Go 14 Laptop (AMD Ryzen 3 7320U/8GB/512 SSD/Windows 11 Home/FHD), 34.03 cm (14.0 inch)",
+          "offer_price": 38749,
+          "actual_price": 50990,
+          "key_features": [
+            "Processor: AMD Ryzen 3 7320U",
+            "RAM: 8GB",
+            "Internal Storage: 512",
+            "Storage Type: SSD",
+            "Operating System: Windows 11 Home",
+            "Microsoft Office included: FALSE"
+          ],
+          "category": "laptop",
+          "brand": "Asus_Laptop",
+          "image": "https://www.reliancedigital.in/medias/Asus-Vivobook-NK321WS-493665872-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0ODA0M3xpbWFnZS9qcGVnfGltYWdlcy9oYTEvaGQ1LzEwMDIyNDU0NzU1MzU4LmpwZ3xjZDNhYWUzNzdhZDIyMmZhOGQxODM3MWQ1NTMwOTE3NzU0ZWE1YjdhZTA2OGUwZGVmOWZhNzkwNGI1YWU4NzFj",
+          "url": "https://www.reliancedigital.in/asus-nk321ws-vivobook-go-14-laptop-amd-ryzen-3-7320u-8gb-512-ssd-windows-11-home-fhd-34-03-cm-14-0-inch-/p/493665872",
+          "qty": 5
         }
       ]
+    },
+    {
+      "name": "Rinkesh",
+      "email": "rinkeshujjwal16@gmail.com",
+      "password": "12345",
+      "orderHistory": [],
+      "id": "1NWIWFS"
     }
   ]
 }

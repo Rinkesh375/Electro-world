@@ -14,13 +14,17 @@ import { getAddToCart } from '../../redux/cartQuantityReducer/action';
 
 
 
+
 const TopSearchBar = () => {
     const [searchInputText, setSearchInputText] = useState("");
     const isAuth = JSON.parse(localStorage.getItem("isAuth"));
     let { userDetail } = useSelector(store => store.userLoginReducer);
     const dispatch = useDispatch();
     const [open, setOpen] = useState(false);
-    let quantity = useSelector(store=>store.userCartQuantityReducer.userAddToCart.length )
+    let  userAddToCart = useSelector(store=>store.userCartQuantityReducer.userAddToCart );
+    console.log(userAddToCart,"addTO")
+    const quantity = userAddToCart.length;
+
   
   
 
@@ -69,7 +73,7 @@ const TopSearchBar = () => {
                 </Box>
                 <HStack>
                     <Box >Select Your Pin Code |</Box>
-                    <Box ><HStack><Box position="relative"><PiShoppingCartSimple />{JSON.parse(localStorage.getItem("isAuth")) && quantity?<Box
+                    <Link to="/cart details"><HStack><Box position="relative"><PiShoppingCartSimple />{JSON.parse(localStorage.getItem("isAuth")) && quantity?<Box
                         position="absolute"
                         top="-8px"
                         right="-8px"
@@ -85,12 +89,12 @@ const TopSearchBar = () => {
                         fontSize="sm"
                     >
                        {quantity }
-                    </Box>:null}</Box> <Text position="relative">Cart  |</Text> </HStack></Box>
+                    </Box>:null}</Box> <Text position="relative">Cart  |</Text> </HStack></Link>
 
                     <Box onClick={() => setOpen(!open)}>
                         <Popover isOpen={open}>
                             <PopoverTrigger >
-                                <HStack><Text as="span" fontWeight="bold">{JSON.parse(localStorage.getItem("isAuth")) ? JSON.parse(localStorage.getItem('userDetail'))?.name : "Guest"}</Text><BiUser /></HStack>
+                                <HStack><Text as="span" fontWeight="bold">{JSON.parse(localStorage.getItem("isAuth")) ? JSON.parse(localStorage.getItem('userDetail'))?.name : "Login"}</Text><BiUser /></HStack>
                             </PopoverTrigger>
                             <Portal>
                                 <PopoverContent  >
@@ -101,7 +105,7 @@ const TopSearchBar = () => {
                                         <Stack>
 
                                             {JSON.parse(localStorage.getItem("isAuth")) ? <Button onClick={handleLogout}>Sign Out</Button> : <Link to="/login" > <Button variant="none">Sign In</Button></Link>}
-                                            {JSON.parse(localStorage.getItem("isAuth")) ? <Link to="/placedOrder">  <Button w="100%">Your Order</Button></Link> : null}
+                                            {JSON.parse(localStorage.getItem("isAuth")) ?  <Button w="100%">Your Order</Button> : null}
                                         </Stack>
                                     </PopoverBody>
 

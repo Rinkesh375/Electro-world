@@ -34,7 +34,7 @@ const ProductDetails = () => {
     }
     else if (checkProduct()) toast({ title: "Product already added in cart", status: "error", duration: 4000, isClosable: true, position: "top" })
     else {
-        dispatch(addNewCartProduct(dispatch,[...userAddToCart,singleProduct]))
+        dispatch(addNewCartProduct(dispatch,[...userAddToCart,{...singleProduct,qty:1}]))
         toast({ title: "Product Added", status: "success", duration: 4000, isClosable: true, position: "top" })
 
     }

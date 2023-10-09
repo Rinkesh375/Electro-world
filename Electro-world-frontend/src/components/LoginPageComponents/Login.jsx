@@ -1,14 +1,15 @@
 import React, { useState } from 'react';
 import { FormControl, Heading, Input, Stack, Tag, TagLabel, Box, Button, Flex, Toast, useToast } from '@chakra-ui/react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { BiSolidHide, BiSolidShow } from 'react-icons/bi';
 import { loginGetUserDetails } from '../../api/api';
 import { useDispatch } from 'react-redux';
 import { USER_LOGIN } from '../../redux/userLoginReducer/actionType';
-import { USER_ADD_TO_CART } from '../../redux/cartQuantityReducer/actionTypes';
 import { getAddToCart } from '../../redux/cartQuantityReducer/action';
 
 const Login = () => {
+    const location = useLocation();
+    const navigate = useNavigate()  
     const toast = useToast();
     const [showPassword, setShowPassword] = useState(false);
     const dispatch = useDispatch();
@@ -20,11 +21,16 @@ const Login = () => {
             e.preventDefault();
             const res = await loginGetUserDetails(email);
             if(res.status === 200 && res.data.password === password) {
-             dispatch({type:USER_LOGIN,payload:res.data})
-             dispatch(getAddToCart(dispatch))
-             localStorage.setItem("isAuth",true)
-             localStorage.setItem("userDetail",JSON.stringify(res.data))
+              dispatch({type:USER_LOGIN,payload:res.data})
+              localStorage.setItem("isAuth",true)
+              localStorage.setItem("userDetail",JSON.stringify(res.data))
+              dispatch(getAddToCart(dispatch))
              toast({ position: "top", title: 'Login Successfully', status: 'success', duration: 2000, isClosable: true, })
+             setTimeout(()=>{
+              
+                if(location.state) navigate(location.state,{replace:true})
+                else navigate("/",{replace:true})
+             },2000)
             }
             else   toast({ position: "top", title: 'Login Failed', status: 'error', duration: 4000, isClosable: true, description: "Please check your email and password" })  
     }
