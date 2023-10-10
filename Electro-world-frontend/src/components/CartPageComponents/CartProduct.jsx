@@ -1,39 +1,45 @@
-import { Grid, GridItem } from '@chakra-ui/react';
+import { Grid, GridItem,Center,Heading } from '@chakra-ui/react';
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import CartProductCard from './CartProductCard';
-import { updateAddCartProduct,getAddToCart } from '../../redux/cartQuantityReducer/action';
+import { updateAddCartProduct, getAddToCart } from '../../redux/cartQuantityReducer/action';
+import LoadingSpinner from '../ProductPageComponents/LoadingSpinner';
 
 const CartProduct = () => {
-    const {userAddToCart} = useSelector(store=>store.userCartQuantityReducer);
-    const dispatch = useDispatch();
-    const removeAddToCartProduct = (id)=>{
-          let temp = [...userAddToCart];
-          temp  = temp.filter(ele=>ele.id !== id )
-          dispatch(updateAddCartProduct(dispatch,temp))
-        
-}
-//console.log("done")
-const quantityUpdateHandler = (id,value)=>{
+  const { userAddToCart, isLoading } = useSelector(store => store.userCartQuantityReducer);
+  const dispatch = useDispatch();
+  const removeAddToCartProduct = (id) => {
     let temp = [...userAddToCart];
-    temp = temp.map(ele=>ele.id === id?{...ele,qty:ele.qty+value}:ele)
-    dispatch(updateAddCartProduct(dispatch,temp))
+    temp = temp.filter(ele => ele._id !== id)
+    dispatch(updateAddCartProduct(dispatch, temp))
 
-}
+  }
 
-useEffect(()=>{
+  const quantityUpdateHandler = (id, value) => {
+    let temp = [...userAddToCart];
+    temp = temp.map(ele => ele._id === id ? { ...ele, qty: ele.qty + value } : ele)
+    dispatch(updateAddCartProduct(dispatch, temp))
+
+  }
+
+  useEffect(() => {
     dispatch(getAddToCart(dispatch))
-},[])
+  }, [])
 
   return (
     <>
-      <Grid templateColumns="3fr 1fr" >
-        <GridItem>
-         
-                {userAddToCart.map(ele=><  CartProductCard key={ele.id} {...ele} removeAddToCartProduct={removeAddToCartProduct} quantityUpdateHandler={quantityUpdateHandler}  />)}
+      <Grid style={{width:"80%",margin:"auto"}}>
+        {
+          isLoading ? <Center><LoadingSpinner /></Center> :userAddToCart.length? <>
+            <GridItem>
+
+              {userAddToCart.map(ele => <  CartProductCard key={ele._id} {...ele} removeAddToCartProduct={removeAddToCartProduct} quantityUpdateHandler={quantityUpdateHandler} />)}
+
+            </GridItem>
           
-        </GridItem>
-        <GridItem></GridItem>
+          </>:<Heading textAlign="center" m="1rem">Your cart is empty!</Heading>
+        }
+
       </Grid>
     </>
   );

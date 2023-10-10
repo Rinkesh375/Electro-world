@@ -1,4 +1,4 @@
-import { Grid, GridItem, HStack, Text, VStack, Stack, Box, UnorderedList, ListItem, Heading, Button, useToast } from '@chakra-ui/react';
+import { Grid, GridItem, HStack, Text, VStack, Stack, Box, UnorderedList, ListItem, Heading, Button, useToast ,Spinner} from '@chakra-ui/react';
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTags, faSquareCheck } from '@fortawesome/free-solid-svg-icons';
@@ -12,21 +12,25 @@ const ProductDetails = () => {
   const { singleProduct } = useSelector(store => store.singleProductReducer);
   const { offer_price, key_features, actual_price } = singleProduct;
   const isAuth = JSON.parse(localStorage.getItem("isAuth"));
-  const {userAddToCart} = useSelector(store=>store.userCartQuantityReducer)
-
-  const toast = useToast()
+  const {userAddToCart,isLoading} = useSelector(store=>store.userCartQuantityReducer);
+  const toast = useToast();
   const navigate = useNavigate();
   const dispatch = useDispatch();
 
+
+
+
+
+
   const checkProduct = () => {
 
-    for (let ele of userAddToCart) if (ele.id === +id) return true
+    for (let ele of userAddToCart) if (ele._id === id) return true
     return false
 
   }
 
   const addToCartHandler = async () => {
-    
+
     if (!isAuth) {
       toast({ title: "Login required", description: "User needs to login", status: "error", duration: 4000, isClosable: true, position: "top" })
       navigate("/login")
@@ -103,7 +107,9 @@ const ProductDetails = () => {
           <Text style={{ color: " rgb(67, 160, 71)" }}>You Save: {Math.floor(100 - ((offer_price * 100) / actual_price))}%(₹{actual_price - offer_price})</Text>
           <Text>EMIs (Credit Cards) from ₹{Math.floor((offer_price * 10) / 100)}/month</Text>
           <Heading as='h6' size='xs'>FREE Shipping!</Heading>
-          <Button colorScheme='red' onClick={addToCartHandler}>ADD TO CART</Button>
+          {
+            isLoading?<Button colorScheme='red'><Spinner /></Button>: <Button colorScheme='red' onClick={addToCartHandler}>ADD TO CART</Button>
+          }
         </Stack>
       </GridItem>
     </Grid>
