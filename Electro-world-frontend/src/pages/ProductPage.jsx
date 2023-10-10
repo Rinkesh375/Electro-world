@@ -5,9 +5,11 @@ import ProductCard from '../components/ProductPageComponents/ProductCard';
 import Pagination from '../components/ProductPageComponents/Pagination';
 import SideBarFilter from '../components/ProductPageComponents/SideBarFilter';
 import LoadingSpinner from '../components/ProductPageComponents/LoadingSpinner';
+import { useParams } from 'react-router-dom';
 
 const ProductPage = () => {
-  const {isLoading, productArray } = useSelector(store => store.productReducer);
+  const {isLoading, productArray } = useSelector(store => store.productReducer,shallowEqual);
+
   const [page, setPage] = useState(1)
   const handleUpdatePage = (value) => {
     setPage(pre => pre + value)
@@ -21,10 +23,10 @@ const ProductPage = () => {
 <Grid templateColumns='1fr 4fr' >
       <GridItem> <SideBarFilter page={page} /></GridItem>
         {isLoading?<LoadingSpinner/>: productArray.length?<>
-      <GridItem> <Grid templateColumns='repeat(4, 1fr)' gap="1rem" m="2rem 1rem">
+      <GridItem> <Grid templateColumns='repeat(4, 1fr)'  gap="1rem" m="2rem 1rem">
 
         {
-          productArray.map(ele => <ProductCard key={ele.id} {...ele} />)
+          productArray.map(ele => <ProductCard key={ele._id} {...ele} />)
         }
 
       </Grid></GridItem>

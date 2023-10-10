@@ -9,7 +9,7 @@ import TvCheckBoxFilter from './TvCheckBoxFilter';
 import EarphoneCheckBoxFilter from './EarphoneCheckBoxFilter';
 import AcCheckBoxFilter from './AcCheckBoxFilter';
 
-let count = 0
+
 
 const SideBarFilter = ({ page }) => {
     const dispatch = useDispatch();
@@ -20,7 +20,8 @@ const SideBarFilter = ({ page }) => {
     const [maxPrice, setMaxPrice] = useState("")
     const [priceFilter, setPriceFilter] = useState({ minPrice, maxPrice })
     const [brand, setBrand] = useState(searchParam.get("brand") || [])
-   
+  
+
 
     const brandFilterHandler = (e) => {
 
@@ -32,13 +33,13 @@ const SideBarFilter = ({ page }) => {
     }
     const priceFilterHandler = (e) => {
         e.preventDefault();
-       
+
         setPriceFilter({ minPrice, maxPrice });
 
 
     }
     useEffect(() => {
-     
+
         const urlQuery = { brand }
         minPrice && maxPrice && (urlQuery.minPrice = minPrice);
         minPrice && maxPrice && (urlQuery.maxPricePrice = maxPrice);
@@ -51,21 +52,20 @@ const SideBarFilter = ({ page }) => {
             params: {
                 category,
                 brand,
-
                 _limit: 12,
                 _page: page
 
             }
         }
-        minPrice && maxPrice && (obj.params.offer_price_gte = minPrice);
-        minPrice && maxPrice && (obj.params.offer_price_lte = maxPrice);
+        minPrice && maxPrice && (obj.params.minPrice = minPrice);
+        minPrice && maxPrice && (obj.params.maxPrice = maxPrice);
         order === "asc" && (obj.params._order = order);
         order === "desc" && (obj.params._order = order);
         order === "asc" && (obj.params._sort = "offer_price");
         order === "desc" && (obj.params._sort = "offer_price");
 
         dispatch(getProduct(dispatch, obj))
-    }, [brand,category,page,priceFilter,order])
+    }, [brand, category, page, priceFilter, order])
 
     return (
         <Stack m="2rem" spacing={4} >
@@ -102,7 +102,7 @@ const SideBarFilter = ({ page }) => {
                         <Radio colorScheme='green' value='desc'>High to Low</Radio>
                     </Stack>
                 </RadioGroup>
-               
+
             </Box>
 
 

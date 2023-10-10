@@ -12,16 +12,17 @@ userRouter.post("/register", async (req, res) => {
             bcrypt.hash(password, 5, async (err, hash) => {
                 if (hash) {
                     await User.create({ ...req.body, password: hash })
+                 
                     res.status(201).json({ msg: "User has been created", user: req.body })
                 }
-                else res.status(400).json({ err: err.message });
+                else res.json({ err: err.message });
             })
         } catch (error) {
-            res.status(400).json({ error: error.message })
+            res.status(500).json({ error: error.message })
         }
 
     }
-    else res.status(400).json({ msg: "This email already exists" });
+    else res.json({ msg: "This email already exists" });
 })
 
 
@@ -35,7 +36,7 @@ userRouter.post("/login", async (req, res) => {
             if (match)  res.status(200).json(user)
             else res.status(400).json({ err: "Invalid credentials!" });
         } catch (error) {
-            res.status(400).json({ error: error.message })
+            res.status(500).json({ error: error.message })
         }
 
     }
@@ -50,6 +51,7 @@ userRouter.get("/addToCart/:id",  async (req, res) => {
 
     try {
         const { id } = req.params;
+   
         const user = await User.findById(id);
         if (user) {
           const addToCart = user.addToCart;
@@ -58,7 +60,7 @@ userRouter.get("/addToCart/:id",  async (req, res) => {
         else res.status(400).json({ err: "Given id does not match" })
     }
     catch (error) {
-        res.status(400).json({ error: error.message });
+        res.status(500).json({ error: error.message });
     }
 
 })
@@ -69,6 +71,7 @@ userRouter.patch("/addToCart/:id",  async (req, res) => {
     try {
      
         const { id } = req.params;
+        console.log("id",id,"-1")
         const addToCart = req.body
        
         const user = await User.findByIdAndUpdate(id,{addToCart},{new:true});
@@ -79,7 +82,7 @@ userRouter.patch("/addToCart/:id",  async (req, res) => {
         else res.status(400).json({ err: "Given id does not match" })
     }
     catch (error) {
-        res.status(400).json({ error: error.message });
+        res.status(500).json({ error: error.message });
     }
 
 })
