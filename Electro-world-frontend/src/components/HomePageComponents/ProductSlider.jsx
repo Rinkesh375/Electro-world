@@ -44,7 +44,7 @@ const ProductSlider = () => {
     <CardBody>
       <VStack>
         <Image w="100%" src={ele.image} alt='Green double couch with wooden legs' borderRadius='lg' height="350px" />
-        <HStack style={{width: "390px",whiteSpace: "nowrap",overflow: "hidden",textOverflow: "ellipsis"}}><Heading textAlign="left" as='h6' size='xs' fontWeight="bold" color="#003380" style={{display: "inline-block",
+        <HStack style={{width: "100%",whiteSpace: "nowrap",overflow: "hidden",textOverflow: "ellipsis"}}><Heading textAlign="left" as='h6' size='xs' fontWeight="bold" color="#003380" style={{display: "inline-block",
 whiteSpace: "nowrap",
   overflow: "hidden",
   textOverflow: "ellipsis"}} >{ele.name.substring(0,62)}...</Heading></HStack>
