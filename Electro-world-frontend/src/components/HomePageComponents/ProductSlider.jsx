@@ -37,7 +37,7 @@ const ProductSlider = () => {
           isLoading?<Center><LoadingSpinner/></Center>:<>
                <Slider ref={sliderRef} {...sliderSettings} >
 
-{productArray.map((ele, index) => <Link key={ele._id} to={`/product/${ele.id}`}   >
+{productArray.map((ele, index) => <Link key={ele._id} to={`/product/${ele._id}`}   >
   <Card maxW='sm' key={index} margin="1rem" style={{ boxShadow: "rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px" }}>
 
 
